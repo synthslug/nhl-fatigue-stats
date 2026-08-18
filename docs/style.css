@@ -150,6 +150,33 @@ button:focus-visible {
   color: var(--text-muted);
   font-size: 0.82rem;
 }
+.filter-group {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  flex-wrap: wrap;
+}
+.number-filter {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+.number-filter input[type="number"] {
+  width: 3.5em;
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.3rem 0.4rem;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.85rem;
+}
+.number-filter input[type="number"]:focus-visible {
+  outline: 2px solid var(--ice);
+  outline-offset: 2px;
+}
 
 .table-wrap {
   border: 1px solid var(--border);

@@ -24,9 +24,11 @@ function renderFII() {
   const tbody = document.getElementById("fii-tbody");
   const search = document.getElementById("fii-search").value.trim().toLowerCase();
   const minToiOn = document.getElementById("fii-min-toi").checked;
+  const minGames = Math.max(1, parseInt(document.getElementById("fii-min-games").value, 10) || 1);
 
   let rows = state.fii.filter(r =>
     (!minToiOn || r.total_shared_toi_min >= 20) &&
+    r.games >= minGames &&
     (!search || r.name.toLowerCase().includes(search) || (r.team || "").toLowerCase().includes(search))
   );
 
@@ -59,9 +61,11 @@ function renderFII() {
 function renderFPI() {
   const tbody = document.getElementById("fpi-tbody");
   const search = document.getElementById("fpi-search").value.trim().toLowerCase();
+  const minGames = Math.max(1, parseInt(document.getElementById("fpi-min-games").value, 10) || 1);
 
   let rows = state.fpi.filter(r =>
-    !search || r.name.toLowerCase().includes(search) || (r.team || "").toLowerCase().includes(search)
+    r.games >= minGames &&
+    (!search || r.name.toLowerCase().includes(search) || (r.team || "").toLowerCase().includes(search))
   );
   const { key, dir } = state.sort.fpi;
   rows = rows.slice().sort((a, b) => (a[key] > b[key] ? 1 : a[key] < b[key] ? -1 : 0) * dir);
@@ -200,7 +204,9 @@ async function init() {
   setupModal();
   document.getElementById("fii-search").addEventListener("input", renderFII);
   document.getElementById("fii-min-toi").addEventListener("change", renderFII);
+  document.getElementById("fii-min-games").addEventListener("input", renderFII);
   document.getElementById("fpi-search").addEventListener("input", renderFPI);
+  document.getElementById("fpi-min-games").addEventListener("input", renderFPI);
 
   try {
     const [fii, fpi] = await Promise.all([

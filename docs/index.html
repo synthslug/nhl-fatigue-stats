@@ -36,10 +36,16 @@
     </div>
     <div class="table-controls">
       <input type="search" id="fii-search" placeholder="Search player or team&hellip;" aria-label="Search FII leaderboard">
-      <label class="toggle">
-        <input type="checkbox" id="fii-min-toi" checked>
-        <span>Min. 20 shared minutes</span>
-      </label>
+      <div class="filter-group">
+        <label class="toggle">
+          <input type="checkbox" id="fii-min-toi" checked>
+          <span>Min. 20 shared minutes</span>
+        </label>
+        <label class="number-filter">
+          <span>Min games played</span>
+          <input type="number" id="fii-min-games" value="5" min="1" step="1" aria-label="Minimum games played">
+        </label>
+      </div>
     </div>
     <div class="table-wrap">
       <table id="fii-table">
@@ -65,6 +71,10 @@
     </div>
     <div class="table-controls">
       <input type="search" id="fpi-search" placeholder="Search player or team&hellip;" aria-label="Search FPI leaderboard">
+      <label class="number-filter">
+        <span>Min games played</span>
+        <input type="number" id="fpi-min-games" value="5" min="1" step="1" aria-label="Minimum games played">
+      </label>
     </div>
     <div class="table-wrap">
       <table id="fpi-table">
