@@ -1,0 +1,237 @@
+:root {
+  --bg-deep: #0A1118;
+  --bg-panel: #111B26;
+  --bg-row-alt: #0E1720;
+  --ice: #4FD1E8;
+  --rink-blue: #2E5FE8;
+  --rink-red: #E8384F;
+  --hot: #FF6B35;
+  --cold: #4FD1E8;
+  --text: #E8EEF2;
+  --text-muted: #7C8FA0;
+  --border: #1C2A38;
+  font-size: 16px;
+}
+
+* { box-sizing: border-box; }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+}
+
+body {
+  margin: 0;
+  background: var(--bg-deep);
+  color: var(--text);
+  font-family: 'JetBrains Mono', ui-monospace, monospace;
+  min-height: 100vh;
+}
+
+h1, h2, .tab, .eyebrow {
+  font-family: 'Oswald', sans-serif;
+  letter-spacing: 0.02em;
+}
+
+/* Signature element: the blue line -- NHL's actual rink line, rendered as a
+   thin double rule (blue with a red pinstripe), used as the page's only
+   recurring structural device. */
+.blueline {
+  height: 6px;
+  background: var(--rink-blue);
+  position: relative;
+}
+.blueline::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  top: 50%;
+  height: 2px;
+  transform: translateY(-50%);
+  background: var(--rink-red);
+  opacity: 0.85;
+}
+
+.hero {
+  padding: 3rem 1.5rem 2.5rem;
+  text-align: center;
+  background: radial-gradient(ellipse at top, rgba(79,209,232,0.06), transparent 60%);
+}
+.hero-inner { max-width: 640px; margin: 0 auto; }
+.eyebrow {
+  color: var(--ice);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin: 0 0 0.75rem;
+}
+h1 {
+  font-size: clamp(2.25rem, 6vw, 3.5rem);
+  font-weight: 700;
+  margin: 0 0 0.6rem;
+  color: var(--text);
+}
+.subtitle {
+  color: var(--text-muted);
+  font-size: 1.05rem;
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+main { max-width: 920px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+
+.tabs {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+}
+.tab {
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 500;
+  padding: 0.75rem 0.25rem;
+  margin-right: 1.5rem;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
+}
+.tab:hover { color: var(--text); }
+.tab.active { color: var(--ice); border-bottom-color: var(--ice); }
+
+.panel { display: none; }
+.panel.active { display: block; }
+
+.panel-intro { margin-bottom: 1.5rem; }
+.panel-intro h2 {
+  font-size: 1.4rem;
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+.panel-intro p {
+  color: var(--text-muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  max-width: 62ch;
+  margin: 0;
+}
+
+.table-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+  flex-wrap: wrap;
+}
+.table-controls input[type="search"] {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  color: var(--text);
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-family: inherit;
+  font-size: 0.85rem;
+  min-width: 220px;
+}
+.table-controls input[type="search"]:focus-visible,
+.tab:focus-visible,
+th[data-sort]:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--ice);
+  outline-offset: 2px;
+}
+.toggle {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.table-wrap {
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  overflow: hidden;
+}
+table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+thead { background: var(--bg-panel); }
+th {
+  text-align: left;
+  padding: 0.65rem 0.85rem;
+  color: var(--text-muted);
+  font-weight: 500;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  user-select: none;
+  white-space: nowrap;
+}
+th.sort-active { color: var(--ice); }
+th.num, td.num { text-align: right; }
+tbody tr {
+  border-top: 1px solid var(--border);
+  cursor: pointer;
+  transition: background 0.1s ease;
+}
+tbody tr:nth-child(even) { background: var(--bg-row-alt); }
+tbody tr:hover { background: rgba(79,209,232,0.06); }
+td { padding: 0.6rem 0.85rem; }
+td.name { font-family: ui-sans-serif, system-ui, sans-serif; font-weight: 500; }
+td.team { color: var(--text-muted); font-size: 0.8rem; }
+
+/* heat bar: cold ice-blue -> hot amber, encodes relative magnitude within
+   the visible leaderboard, doubling as the fatigue metaphor made literal */
+.heat-cell { display: flex; align-items: center; justify-content: flex-end; gap: 0.5rem; }
+.heat-bar-track { width: 60px; height: 5px; background: var(--border); border-radius: 3px; overflow: hidden; }
+.heat-bar-fill { height: 100%; border-radius: 3px; }
+.heat-value { min-width: 3.5em; text-align: right; }
+
+#status-strip {
+  text-align: center;
+  padding: 1rem;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+  border-top: 1px solid var(--border);
+}
+#status-strip.error { color: var(--hot); }
+
+.modal {
+  position: fixed; inset: 0;
+  background: rgba(5,9,13,0.75);
+  display: flex; align-items: center; justify-content: center;
+  padding: 1.5rem;
+  z-index: 10;
+}
+.modal[hidden] { display: none; }
+.modal-card {
+  background: var(--bg-panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  max-width: 560px;
+  width: 100%;
+  max-height: 80vh;
+  overflow-y: auto;
+  padding: 1.75rem;
+  position: relative;
+}
+#modal-close {
+  position: absolute; top: 0.75rem; right: 0.9rem;
+  background: none; border: none; color: var(--text-muted);
+  font-size: 1.4rem; cursor: pointer; line-height: 1;
+}
+#modal-close:hover { color: var(--text); }
+.modal-body h3 { font-family: 'Oswald', sans-serif; margin-top: 0; }
+.matchup-row {
+  display: flex; justify-content: space-between;
+  padding: 0.4rem 0; border-top: 1px solid var(--border);
+  font-size: 0.85rem;
+}
+
+@media (max-width: 560px) {
+  .table-wrap { overflow-x: auto; }
+  table { min-width: 480px; }
+}

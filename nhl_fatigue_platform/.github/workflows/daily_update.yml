@@ -1,0 +1,38 @@
+name: Daily fatigue-stats update
+
+on:
+  schedule:
+    # 10:00 UTC daily -- comfortably after all NHL games from the prior
+    # night have gone final, across all US/Canada time zones
+    - cron: "0 10 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # required so the job can commit the updated data back
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ingestion (last 3 days, catches any missed runs)
+        run: python -m backend.ingest --days 3
+
+      - name: Export static JSON for the dashboard
+        run: python -m backend.export_static
+
+      - name: Commit updated data
+        run: |
+          git config user.name "fatigue-stats-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/ docs/data/
+          git diff --cached --quiet || git commit -m "Daily data update: $(date -u +%Y-%m-%d)"
+          git push
