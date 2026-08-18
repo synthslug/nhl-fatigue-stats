@@ -104,14 +104,16 @@ def extract_team_ids(boxscore: dict) -> dict:
 def extract_player_toi(boxscore: dict) -> dict:
     """
     Pull {player_id: (name, team_tricode, toi_minutes)} out of a boxscore payload.
-    NHL nests players under playerByGameStats.{home,away}.{forwards,defense,goalies}.
+    Real schema (confirmed against documented API responses): playerByGameStats
+    is keyed by "homeTeam"/"awayTeam" -- same keys as the rest of the payload,
+    NOT shortened to "home"/"away". Player names are split into
+    firstName.default / lastName.default, not a single "name" field.
     """
     out = {}
     pbgs = boxscore.get("playerByGameStats", {})
     for side in ("homeTeam", "awayTeam"):
         team_code = boxscore.get(side, {}).get("abbrev")
-        side_key = "home" if side == "homeTeam" else "away"
-        group = pbgs.get(side_key, {})
+        group = pbgs.get(side, {})
         for position_group in ("forwards", "defense", "goalies"):
             for p in group.get(position_group, []):
                 pid = p.get("playerId")
