@@ -104,10 +104,10 @@ def extract_team_ids(boxscore: dict) -> dict:
 def extract_player_toi(boxscore: dict) -> dict:
     """
     Pull {player_id: (name, team_tricode, toi_minutes)} out of a boxscore payload.
-    Real schema (confirmed against documented API responses): playerByGameStats
-    is keyed by "homeTeam"/"awayTeam" -- same keys as the rest of the payload,
-    NOT shortened to "home"/"away". Player names are split into
-    firstName.default / lastName.default, not a single "name" field.
+    Confirmed against a real response (2026-02-01, LAK @ CAR): playerByGameStats
+    is keyed by "homeTeam"/"awayTeam", and each player has a "name" field shaped
+    {"default": "A. Kempe"} -- first-initial + last name, NOT firstName/lastName
+    split (that was a wrong guess in an earlier pass; reverted here).
     """
     out = {}
     pbgs = boxscore.get("playerByGameStats", {})
@@ -117,9 +117,7 @@ def extract_player_toi(boxscore: dict) -> dict:
         for position_group in ("forwards", "defense", "goalies"):
             for p in group.get(position_group, []):
                 pid = p.get("playerId")
-                first = p.get("firstName", {}).get("default", "")
-                last = p.get("lastName", {}).get("default", "")
-                name = f"{first} {last}".strip() or f"player_{pid}"
+                name = p.get("name", {}).get("default") or f"player_{pid}"
                 toi = toi_string_to_minutes(p.get("toi", "0:00"))
                 out[pid] = {"name": name, "team": team_code, "toi_minutes": toi}
     return out
