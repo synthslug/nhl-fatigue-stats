@@ -14,6 +14,7 @@ Usage:
 
 import argparse
 import sys
+import time
 import traceback
 from datetime import datetime, timedelta, timezone
 
@@ -85,8 +86,15 @@ def ingest_game(session, game_id: int, cfg: FIIConfig, player_names: dict = None
     session.commit()
 
 
-def collect_candidate_games(days: int, specific_date: str = None):
-    if specific_date:
+def collect_candidate_games(days: int, specific_date: str = None, start_date: str = None, end_date: str = None):
+    if start_date and end_date:
+        from datetime import date as _date
+        start = datetime.strptime(start_date, "%Y-%m-%d").date()
+        end = datetime.strptime(end_date, "%Y-%m-%d").date()
+        if end < start:
+            raise ValueError("end_date must be on or after start_date")
+        dates = [(start + timedelta(days=i)).isoformat() for i in range((end - start).days + 1)]
+    elif specific_date:
         dates = [specific_date]
     else:
         today = datetime.now(timezone.utc).date()
@@ -105,16 +113,21 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=3, help="lookback window in days")
     ap.add_argument("--date", type=str, default=None, help="process one specific YYYY-MM-DD instead")
+    ap.add_argument("--start-date", type=str, default=None, help="backfill a date range: start (YYYY-MM-DD)")
+    ap.add_argument("--end-date", type=str, default=None, help="backfill a date range: end (YYYY-MM-DD, inclusive)")
     ap.add_argument("--force", action="store_true",
                      help="reprocess games even if already marked ingested (use after a pipeline bugfix, "
                           "e.g. to backfill corrected player names onto existing rows)")
     args = ap.parse_args()
 
+    if (args.start_date and not args.end_date) or (args.end_date and not args.start_date):
+        ap.error("--start-date and --end-date must be given together")
+
     init_db()
     session = get_session()
     cfg = FIIConfig()
 
-    game_ids = collect_candidate_games(args.days, args.date)
+    game_ids = collect_candidate_games(args.days, args.date, args.start_date, args.end_date)
     print(f"Found {len(game_ids)} completed games in range.")
 
     ok, skipped, failed = 0, 0, 0
@@ -139,6 +152,7 @@ def main():
                 session.add(IngestLog(game_id=gid, status="error", error_message=err_text,
                                        ingested_at=datetime.now(timezone.utc)))
             session.commit()
+        time.sleep(0.3)  # be polite to NHL's API, especially over a large backfill range
 
     print(f"\nDone. ok={ok} skipped={skipped} failed={failed}")
     session.close()
