@@ -30,17 +30,20 @@ def already_ingested(session, game_id: int) -> bool:
 
 def upsert_player(session, player_id: int, name: str, team_abbrev: str):
     p = session.get(Player, player_id)
+    real_name = name if not name.startswith("player_") else None
     if p is None:
-        session.add(Player(id=player_id, name=name, team_abbrev=team_abbrev))
+        session.add(Player(id=player_id, name=(real_name or name), team_abbrev=team_abbrev))
     else:
         p.team_abbrev = team_abbrev  # keep most recent team on file
+        if real_name:  # only overwrite with an actual name, never with a placeholder
+            p.name = real_name
 
 
-def ingest_game(session, game_id: int, cfg: FIIConfig, player_names: dict):
+def ingest_game(session, game_id: int, cfg: FIIConfig, player_names: dict = None):
     result = compute_game_batch(game_id, cfg)
 
     for pid, feat in result["fpi_features"].items():
-        name = player_names.get(pid, f"player_{pid}")
+        name = feat.get("name", f"player_{pid}")
         team = feat["venue_team"] if feat["venue_team"] else None
         upsert_player(session, pid, name, team)
 
@@ -111,12 +114,7 @@ def main():
             skipped += 1
             continue
         try:
-            # player names aren't in boxscore's playerByGameStats in a
-            # convenient flat form for this pass -- default to placeholder;
-            # a light follow-up job can backfill names from the roster
-            # endpoint. Not blocking ingestion on it keeps the pipeline
-            # resilient to that endpoint's shape changing independently.
-            ingest_game(session, gid, cfg, player_names={})
+            ingest_game(session, gid, cfg)
             ok += 1
             print(f"  game {gid}: OK")
         except Exception as exc:

@@ -91,10 +91,12 @@ def compute_game_batch(game_id: int, cfg: FIIConfig = FIIConfig()) -> dict:
                 fii_results[pid] = aggregate_fii(combined, shared_toi)
 
             toi_minutes = toi_map.get(pid, {}).get("toi_minutes", 0.0)
+            player_name = toi_map.get(pid, {}).get("name", f"player_{pid}")
             fpi_features[pid] = {
                 "toi_minutes": toi_minutes,
                 "venue_team": home_abbrev,  # game was played at home team's arena
                 "date": game_date,
+                "name": player_name,
             }
 
     return {
