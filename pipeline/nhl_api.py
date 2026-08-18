@@ -115,7 +115,9 @@ def extract_player_toi(boxscore: dict) -> dict:
         for position_group in ("forwards", "defense", "goalies"):
             for p in group.get(position_group, []):
                 pid = p.get("playerId")
-                name = p.get("name", {}).get("default", f"player_{pid}")
+                first = p.get("firstName", {}).get("default", "")
+                last = p.get("lastName", {}).get("default", "")
+                name = f"{first} {last}".strip() or f"player_{pid}"
                 toi = toi_string_to_minutes(p.get("toi", "0:00"))
                 out[pid] = {"name": name, "team": team_code, "toi_minutes": toi}
     return out
