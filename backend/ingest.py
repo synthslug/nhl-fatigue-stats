@@ -74,8 +74,14 @@ def ingest_game(session, game_id: int, cfg: FIIConfig, player_names: dict = None
                 weighted_toll=detail["weighted_toll"], components_json=detail["components"],
             ))
 
-    session.add(IngestLog(game_id=game_id, status="ok", error_message=None,
-                           ingested_at=datetime.now(timezone.utc)))
+    existing_log = session.query(IngestLog).filter_by(game_id=game_id).first()
+    if existing_log:
+        existing_log.status = "ok"
+        existing_log.error_message = None
+        existing_log.ingested_at = datetime.now(timezone.utc)
+    else:
+        session.add(IngestLog(game_id=game_id, status="ok", error_message=None,
+                               ingested_at=datetime.now(timezone.utc)))
     session.commit()
 
 
@@ -99,6 +105,9 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--days", type=int, default=3, help="lookback window in days")
     ap.add_argument("--date", type=str, default=None, help="process one specific YYYY-MM-DD instead")
+    ap.add_argument("--force", action="store_true",
+                     help="reprocess games even if already marked ingested (use after a pipeline bugfix, "
+                          "e.g. to backfill corrected player names onto existing rows)")
     args = ap.parse_args()
 
     init_db()
@@ -110,7 +119,7 @@ def main():
 
     ok, skipped, failed = 0, 0, 0
     for gid in game_ids:
-        if already_ingested(session, gid):
+        if already_ingested(session, gid) and not args.force:
             skipped += 1
             continue
         try:
