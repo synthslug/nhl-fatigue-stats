@@ -98,19 +98,38 @@ def export_player_detail(session, player_id: int):
     fii_rows = (session.query(GameFII)
                 .filter_by(player_id=player_id)
                 .order_by(GameFII.date).all())
-    fii_games = []
+
+    # gather matchups + all opponent ids first, then resolve names in one query
+    matchups_by_game = {}
+    opponent_ids = set()
     for r in fii_rows:
         matchups = (session.query(FIIMatchup)
                     .filter_by(game_fii_id=r.id)
-                    .order_by(FIIMatchup.weighted_toll.desc()).all())
+                    .order_by(FIIMatchup.weighted_toll.desc()).all())[:5]
+        matchups_by_game[r.id] = matchups
+        opponent_ids.update(m.opponent_player_id for m in matchups)
+
+    opponent_names = {}
+    if opponent_ids:
+        opponent_names = {
+            p.id: p.name for p in session.query(Player).filter(Player.id.in_(opponent_ids)).all()
+        }
+
+    fii_games = []
+    for r in fii_rows:
+        matchups = matchups_by_game[r.id]
         fii_games.append({
             "game_id": r.game_id, "date": r.date, "fii_per_60": r.fii_per_60,
             "total_weighted_toll": r.total_weighted_toll,
             "total_shared_toi_min": r.total_shared_toi_min,
             "top_matchups": [
-                {"opponent_player_id": m.opponent_player_id, "weighted_toll": m.weighted_toll,
-                 "role_weight": m.role_weight, "components": m.components_json}
-                for m in matchups[:5]
+                {
+                    "opponent_player_id": m.opponent_player_id,
+                    "opponent_name": opponent_names.get(m.opponent_player_id, f"player_{m.opponent_player_id}"),
+                    "weighted_toll": m.weighted_toll,
+                    "role_weight": m.role_weight, "components": m.components_json,
+                }
+                for m in matchups
             ],
         })
     return {"player_id": player_id, "fii_games": fii_games}

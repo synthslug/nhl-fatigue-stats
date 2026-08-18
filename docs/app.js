@@ -123,7 +123,7 @@ async function openPlayerModal(playerId, name) {
           </div>
           ${g.top_matchups.map(m => `
             <div class="matchup-row">
-              <span style="color:var(--text-muted)">opponent #${m.opponent_player_id} (role wt ${m.role_weight.toFixed(2)})</span>
+              <span style="color:var(--text-muted)">${escapeHtml(m.opponent_name || `opponent #${m.opponent_player_id}`)} (role wt ${m.role_weight.toFixed(2)})</span>
               <span>${m.weighted_toll.toFixed(1)}</span>
             </div>`).join("")}
         </div>`).join("")}
