@@ -1,0 +1,143 @@
+{
+  "player_id": 8477971,
+  "fii_games": [
+    {
+      "game_id": 2025020830,
+      "date": "2026-01-27",
+      "fii_per_60": 1843.456,
+      "total_weighted_toll": 1302.709,
+      "total_shared_toi_min": 42.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480280,
+          "weighted_toll": 1188.75,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1185.0,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479987,
+          "weighted_toll": 20.863,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.875,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477507,
+          "weighted_toll": 13.959,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.673,
+            "pursuit": 0.0,
+            "zone_time": 0.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477496,
+          "weighted_toll": 11.084,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 39.0,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479999,
+          "weighted_toll": 8.253,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.6,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020867,
+      "date": "2026-01-31",
+      "fii_per_60": 111.847,
+      "total_weighted_toll": 139.995,
+      "total_shared_toi_min": 75.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8485366,
+          "weighted_toll": 21.358,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.958,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8477369,
+          "weighted_toll": 15.477,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.273,
+            "pursuit": 0.0,
+            "zone_time": 4.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476429,
+          "weighted_toll": 14.96,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.1,
+            "pursuit": 0.0,
+            "zone_time": 4.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8478445,
+          "weighted_toll": 11.196,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.9,
+            "pursuit": 0.0,
+            "zone_time": 3.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481601,
+          "weighted_toll": 10.844,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.552,
+            "pursuit": 0.0,
+            "zone_time": 2.6,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

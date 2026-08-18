@@ -6,11 +6,19 @@ on:
   workflow_dispatch:
     inputs:
       date:
-        description: "Specific date to backfill (YYYY-MM-DD). Leave blank for the normal daily lookback."
+        description: "Specific single date to backfill (YYYY-MM-DD). Leave blank for normal lookback or a range."
+        required: false
+        default: ""
+      start_date:
+        description: "Range backfill: start date (YYYY-MM-DD). Use with end_date."
+        required: false
+        default: ""
+      end_date:
+        description: "Range backfill: end date (YYYY-MM-DD, inclusive). Use with start_date."
         required: false
         default: ""
       days:
-        description: "Lookback window in days (only used if 'date' is left blank)"
+        description: "Lookback window in days (only used if date/start_date/end_date all blank)"
         required: false
         default: "3"
       force:
@@ -41,7 +49,9 @@ jobs:
           if [ "${{ github.event.inputs.force }}" = "true" ]; then
             FORCE_FLAG="--force"
           fi
-          if [ -n "${{ github.event.inputs.date }}" ]; then
+          if [ -n "${{ github.event.inputs.start_date }}" ] && [ -n "${{ github.event.inputs.end_date }}" ]; then
+            python -m backend.ingest --start-date "${{ github.event.inputs.start_date }}" --end-date "${{ github.event.inputs.end_date }}" $FORCE_FLAG
+          elif [ -n "${{ github.event.inputs.date }}" ]; then
             python -m backend.ingest --date "${{ github.event.inputs.date }}" $FORCE_FLAG
           else
             python -m backend.ingest --days "${{ github.event.inputs.days || '3' }}" $FORCE_FLAG
