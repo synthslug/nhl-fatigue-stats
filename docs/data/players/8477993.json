@@ -740,6 +740,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010004,
+      "date": "2026-09-19",
+      "fii_per_60": 1374.37,
+      "total_weighted_toll": 1106.368,
+      "total_shared_toi_min": 48.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482821,
+          "opponent_name": "A. Soderblom",
+          "weighted_toll": 969.6,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 962.0,
+            "pursuit": 0.0,
+            "zone_time": 7.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483466,
+          "opponent_name": "K. Korchinski",
+          "weighted_toll": 19.397,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 15.856,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482807,
+          "opponent_name": "E. Del Mastro",
+          "weighted_toll": 17.801,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.1,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484793,
+          "opponent_name": "S. Boisvert",
+          "weighted_toll": 16.891,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.889,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484906,
+          "opponent_name": "D. Anhorn",
+          "weighted_toll": 14.476,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.126,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

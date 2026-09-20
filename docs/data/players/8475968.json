@@ -1,0 +1,79 @@
+{
+  "player_id": 8475968,
+  "fii_games": [
+    {
+      "game_id": 2026010007,
+      "date": "2026-09-19",
+      "fii_per_60": 1361.443,
+      "total_weighted_toll": 1261.604,
+      "total_shared_toi_min": 55.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482085,
+          "opponent_name": "S. Hlavaj",
+          "weighted_toll": 638.9,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 636.0,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482515,
+          "opponent_name": "A. Akhtyamov",
+          "weighted_toll": 562.459,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 586.0,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477426,
+          "opponent_name": "N. Paul",
+          "weighted_toll": 7.181,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.45,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484287,
+          "opponent_name": "C. McWard",
+          "weighted_toll": 6.898,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.444,
+            "pursuit": 0.0,
+            "zone_time": 2.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484464,
+          "opponent_name": "N. Chadwick",
+          "weighted_toll": 6.165,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.292,
+            "pursuit": 0.0,
+            "zone_time": 2.45,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

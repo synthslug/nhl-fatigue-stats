@@ -1,0 +1,79 @@
+{
+  "player_id": 8479368,
+  "fii_games": [
+    {
+      "game_id": 2026010003,
+      "date": "2026-09-19",
+      "fii_per_60": 1190.462,
+      "total_weighted_toll": 1309.508,
+      "total_shared_toi_min": 66.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483114,
+          "opponent_name": "T. Milic",
+          "weighted_toll": 1162.9,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1157.0,
+            "pursuit": 0.0,
+            "zone_time": 5.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481567,
+          "opponent_name": "H. Thrun",
+          "weighted_toll": 25.302,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 25.667,
+            "pursuit": 0.0,
+            "zone_time": 4.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486025,
+          "opponent_name": "V. Bj\u00f6rck",
+          "weighted_toll": 14.927,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 12.791,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481030,
+          "opponent_name": "J. St. Ivany",
+          "weighted_toll": 14.92,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.836,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482765,
+          "opponent_name": "I. Rosen",
+          "weighted_toll": 13.444,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.927,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

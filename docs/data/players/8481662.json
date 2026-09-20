@@ -1,0 +1,79 @@
+{
+  "player_id": 8481662,
+  "fii_games": [
+    {
+      "game_id": 2026010007,
+      "date": "2026-09-19",
+      "fii_per_60": 825.65,
+      "total_weighted_toll": 693.546,
+      "total_shared_toi_min": 50.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484170,
+          "opponent_name": "J. Fowler",
+          "weighted_toll": 637.2,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 636.0,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482964,
+          "opponent_name": "A. Xhekaj",
+          "weighted_toll": 12.43,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.489,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483424,
+          "opponent_name": "O. Beck",
+          "weighted_toll": 8.794,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.282,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483728,
+          "opponent_name": "J. Davidson",
+          "weighted_toll": 7.237,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.0,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484533,
+          "opponent_name": "T. Thorpe",
+          "weighted_toll": 4.263,
+          "role_weight": 0.239,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.6,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

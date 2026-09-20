@@ -1,0 +1,79 @@
+{
+  "player_id": 8484403,
+  "fii_games": [
+    {
+      "game_id": 2026010006,
+      "date": "2026-09-19",
+      "fii_per_60": 717.734,
+      "total_weighted_toll": 950.998,
+      "total_shared_toi_min": 79.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476932,
+          "opponent_name": "A. Stolarz",
+          "weighted_toll": 820.75,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 818.5,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475166,
+          "opponent_name": "J. Tavares",
+          "weighted_toll": 24.185,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.954,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480870,
+          "opponent_name": "B. Groulx",
+          "weighted_toll": 15.035,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.533,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478458,
+          "opponent_name": "J. Roslovic",
+          "weighted_toll": 14.829,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.495,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476931,
+          "opponent_name": "J. McCabe",
+          "weighted_toll": 14.651,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.076,
+            "pursuit": 0.0,
+            "zone_time": 2.45,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -518,6 +518,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010001,
+      "date": "2026-09-19",
+      "fii_per_60": 138.478,
+      "total_weighted_toll": 147.018,
+      "total_shared_toi_min": 63.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478476,
+          "opponent_name": "K. Capobianco",
+          "weighted_toll": 16.859,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.648,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482214,
+          "opponent_name": "A. Shlaine",
+          "weighted_toll": 16.502,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.4,
+            "pursuit": 0.0,
+            "zone_time": 2.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486130,
+          "opponent_name": "D. Hryckowian",
+          "weighted_toll": 15.893,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.189,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486126,
+          "opponent_name": "J. Anderson",
+          "weighted_toll": 11.864,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.51,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484938,
+          "opponent_name": "A. Hyry",
+          "weighted_toll": 10.867,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.598,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

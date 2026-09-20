@@ -1,0 +1,79 @@
+{
+  "player_id": 8483728,
+  "fii_games": [
+    {
+      "game_id": 2026010007,
+      "date": "2026-09-19",
+      "fii_per_60": 743.402,
+      "total_weighted_toll": 739.685,
+      "total_shared_toi_min": 59.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482085,
+          "opponent_name": "S. Hlavaj",
+          "weighted_toll": 640.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 636.0,
+            "pursuit": 0.0,
+            "zone_time": 4.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479442,
+          "opponent_name": "T. Stecher",
+          "weighted_toll": 15.218,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.357,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477541,
+          "opponent_name": "D. Mermis",
+          "weighted_toll": 13.816,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.229,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476927,
+          "opponent_name": "T. Blueger",
+          "weighted_toll": 12.858,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.167,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484158,
+          "opponent_name": "E. Cowan",
+          "weighted_toll": 6.6,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.822,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
