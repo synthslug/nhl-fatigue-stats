@@ -1,0 +1,79 @@
+{
+  "player_id": 8484616,
+  "fii_games": [
+    {
+      "game_id": 2026010008,
+      "date": "2026-09-20",
+      "fii_per_60": 964.925,
+      "total_weighted_toll": 1001.914,
+      "total_shared_toi_min": 62.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477970,
+          "opponent_name": "V. Vanecek",
+          "weighted_toll": 865.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 858.5,
+            "pursuit": 0.0,
+            "zone_time": 7.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484807,
+          "opponent_name": "C. Eiserman",
+          "weighted_toll": 24.858,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.392,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484221,
+          "opponent_name": "C. Ritchie",
+          "weighted_toll": 20.723,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.786,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485352,
+          "opponent_name": "K. Aitcheson",
+          "weighted_toll": 18.319,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.977,
+            "pursuit": 0.0,
+            "zone_time": 3.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482516,
+          "opponent_name": "M. Kessel",
+          "weighted_toll": 16.885,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.194,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

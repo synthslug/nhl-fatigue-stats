@@ -1,0 +1,79 @@
+{
+  "player_id": 8481115,
+  "fii_games": [
+    {
+      "game_id": 2026010008,
+      "date": "2026-09-20",
+      "fii_per_60": 1494.967,
+      "total_weighted_toll": 1128.7,
+      "total_shared_toi_min": 45.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477970,
+          "opponent_name": "V. Vanecek",
+          "weighted_toll": 998.317,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 995.917,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484807,
+          "opponent_name": "C. Eiserman",
+          "weighted_toll": 37.037,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 53.824,
+            "pursuit": 0.0,
+            "zone_time": 0.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485388,
+          "opponent_name": "V. Eklund",
+          "weighted_toll": 20.532,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.447,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484221,
+          "opponent_name": "C. Ritchie",
+          "weighted_toll": 11.643,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.447,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480853,
+          "opponent_name": "L. Foudy",
+          "weighted_toll": 10.961,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.167,
+            "pursuit": 0.0,
+            "zone_time": 1.5,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

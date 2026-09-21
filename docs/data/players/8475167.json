@@ -10,6 +10,7 @@
       "top_matchups": [
         {
           "opponent_player_id": 8480280,
+          "opponent_name": "J. Swayman",
           "weighted_toll": 135.787,
           "role_weight": 0.15,
           "components": {
@@ -22,6 +23,7 @@
         },
         {
           "opponent_player_id": 8479369,
+          "opponent_name": "A. Peeke",
           "weighted_toll": 2.169,
           "role_weight": 0.15,
           "components": {
@@ -34,6 +36,7 @@
         },
         {
           "opponent_player_id": 8481219,
+          "opponent_name": "J. Aspirot",
           "weighted_toll": 1.498,
           "role_weight": 0.15,
           "components": {
@@ -46,6 +49,7 @@
         },
         {
           "opponent_player_id": 8482177,
+          "opponent_name": "M. Khusnutdinov",
           "weighted_toll": 1.48,
           "role_weight": 0.15,
           "components": {
@@ -58,6 +62,7 @@
         },
         {
           "opponent_player_id": 8478042,
+          "opponent_name": "V. Arvidsson",
           "weighted_toll": 1.154,
           "role_weight": 0.15,
           "components": {
@@ -65,6 +70,80 @@
             "shift_forced": 6.843,
             "pursuit": 0.0,
             "zone_time": 0.85,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010011,
+      "date": "2026-09-20",
+      "fii_per_60": 86.392,
+      "total_weighted_toll": 89.128,
+      "total_shared_toi_min": 61.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479370,
+          "opponent_name": "T. Jost",
+          "weighted_toll": 16.919,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 21.333,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481715,
+          "opponent_name": "H. Skinner",
+          "weighted_toll": 14.207,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.9,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482103,
+          "opponent_name": "O. Wiesblatt",
+          "weighted_toll": 10.89,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.631,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483513,
+          "opponent_name": "R. Schaefer",
+          "weighted_toll": 8.161,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.026,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483696,
+          "opponent_name": "C. O'Hara",
+          "weighted_toll": 6.091,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 14.7,
+            "pursuit": 0.0,
+            "zone_time": 0.6,
             "rush": 0.0
           }
         }

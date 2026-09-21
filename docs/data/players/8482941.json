@@ -1,0 +1,79 @@
+{
+  "player_id": 8482941,
+  "fii_games": [
+    {
+      "game_id": 2026010008,
+      "date": "2026-09-20",
+      "fii_per_60": 1251.845,
+      "total_weighted_toll": 995.217,
+      "total_shared_toi_min": 47.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477970,
+          "opponent_name": "V. Vanecek",
+          "weighted_toll": 862.5,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 858.5,
+            "pursuit": 0.0,
+            "zone_time": 4.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485352,
+          "opponent_name": "K. Aitcheson",
+          "weighted_toll": 27.082,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.6,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484807,
+          "opponent_name": "C. Eiserman",
+          "weighted_toll": 24.853,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.784,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478451,
+          "opponent_name": "E. Bear",
+          "weighted_toll": 11.239,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 19.929,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478146,
+          "opponent_name": "M. Highmore",
+          "weighted_toll": 10.792,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.393,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

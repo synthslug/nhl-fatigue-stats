@@ -1,0 +1,79 @@
+{
+  "player_id": 8480876,
+  "fii_games": [
+    {
+      "game_id": 2026010014,
+      "date": "2026-09-20",
+      "fii_per_60": 1656.277,
+      "total_weighted_toll": 1233.926,
+      "total_shared_toi_min": 44.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482445,
+          "opponent_name": "D. Cooley",
+          "weighted_toll": 1162.267,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1157.667,
+            "pursuit": 0.0,
+            "zone_time": 4.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484150,
+          "opponent_name": "H. Brzustewicz",
+          "weighted_toll": 16.878,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.837,
+            "pursuit": 0.0,
+            "zone_time": 2.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477810,
+          "opponent_name": "J. Hanley",
+          "weighted_toll": 14.795,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.069,
+            "pursuit": 0.0,
+            "zone_time": 0.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483709,
+          "opponent_name": "A. Wiebe",
+          "weighted_toll": 9.554,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.061,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481167,
+          "opponent_name": "B. Pachal",
+          "weighted_toll": 6.609,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.008,
+            "pursuit": 0.0,
+            "zone_time": 0.95,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
