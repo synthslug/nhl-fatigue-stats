@@ -1036,6 +1036,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010016,
+      "date": "2026-09-21",
+      "fii_per_60": 60.634,
+      "total_weighted_toll": 102.573,
+      "total_shared_toi_min": 101.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477435,
+          "opponent_name": "R. Graves",
+          "weighted_toll": 19.54,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.311,
+            "pursuit": 0.0,
+            "zone_time": 3.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481725,
+          "opponent_name": "E. Soderblom",
+          "weighted_toll": 15.317,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.107,
+            "pursuit": 0.0,
+            "zone_time": 4.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8471724,
+          "opponent_name": "K. Letang",
+          "weighted_toll": 15.274,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.803,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477845,
+          "opponent_name": "T. van Riemsdyk",
+          "weighted_toll": 14.298,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.467,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481019,
+          "opponent_name": "D. Gustafsson",
+          "weighted_toll": 7.517,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.852,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }

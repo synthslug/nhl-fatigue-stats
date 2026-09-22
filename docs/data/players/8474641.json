@@ -1,0 +1,140 @@
+{
+  "player_id": 8474641,
+  "fii_games": [
+    {
+      "game_id": 2025020647,
+      "date": "2026-01-03",
+      "fii_per_60": 167.559,
+      "total_weighted_toll": 172.586,
+      "total_shared_toi_min": 61.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477948,
+          "opponent_name": "T. Sanheim",
+          "weighted_toll": 41.97,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 46.094,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481546,
+          "opponent_name": "C. York",
+          "weighted_toll": 31.306,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.372,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477989,
+          "opponent_name": "C. Dvorak",
+          "weighted_toll": 26.778,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.529,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478439,
+          "opponent_name": "T. Konecny",
+          "weighted_toll": 22.408,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.229,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481533,
+          "opponent_name": "T. Zegras",
+          "weighted_toll": 20.995,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.571,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020674,
+      "date": "2026-01-06",
+      "fii_per_60": 79.43,
+      "total_weighted_toll": 19.328,
+      "total_shared_toi_min": 14.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476869,
+          "opponent_name": "B. Skjei",
+          "weighted_toll": 6.155,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.413,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482062,
+          "opponent_name": "C. Smith",
+          "weighted_toll": 5.49,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.19,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482482,
+          "opponent_name": "A. Wilsby",
+          "weighted_toll": 3.947,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.0,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479370,
+          "opponent_name": "T. Jost",
+          "weighted_toll": 3.736,
+          "role_weight": 0.239,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.6,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

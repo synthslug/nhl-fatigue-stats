@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010019,
+      "date": "2026-09-21",
+      "fii_per_60": 599.409,
+      "total_weighted_toll": 970.043,
+      "total_shared_toi_min": 97.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8474596,
+          "opponent_name": "J. Allen",
+          "weighted_toll": 838.623,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1019.0,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476462,
+          "opponent_name": "D. Hamilton",
+          "weighted_toll": 20.492,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.956,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481559,
+          "opponent_name": "J. Hughes",
+          "weighted_toll": 16.24,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.795,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478399,
+          "opponent_name": "J. Siegenthaler",
+          "weighted_toll": 13.892,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.445,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482684,
+          "opponent_name": "L. Hughes",
+          "weighted_toll": 13.025,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.385,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

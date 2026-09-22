@@ -74,6 +74,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010018,
+      "date": "2026-09-21",
+      "fii_per_60": 890.778,
+      "total_weighted_toll": 1315.382,
+      "total_shared_toi_min": 88.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481519,
+          "opponent_name": "S. Knight",
+          "weighted_toll": 1177.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1171.0,
+            "pursuit": 0.0,
+            "zone_time": 6.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481568,
+          "opponent_name": "A. Vlasic",
+          "weighted_toll": 27.346,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 27.083,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485391,
+          "opponent_name": "A. Frondell",
+          "weighted_toll": 18.192,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.534,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482176,
+          "opponent_name": "W. Kaiser",
+          "weighted_toll": 13.203,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.2,
+            "pursuit": 0.0,
+            "zone_time": 3.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484783,
+          "opponent_name": "A. Levshunov",
+          "weighted_toll": 12.076,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.058,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

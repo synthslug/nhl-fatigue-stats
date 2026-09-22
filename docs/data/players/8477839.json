@@ -1,0 +1,79 @@
+{
+  "player_id": 8477839,
+  "fii_games": [
+    {
+      "game_id": 2026010016,
+      "date": "2026-09-21",
+      "fii_per_60": 1346.517,
+      "total_weighted_toll": 635.107,
+      "total_shared_toi_min": 28.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483703,
+          "opponent_name": "S. Murashov",
+          "weighted_toll": 577.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 577.0,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483808,
+          "opponent_name": "A. Kuzmenko",
+          "weighted_toll": 12.628,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.867,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477435,
+          "opponent_name": "R. Graves",
+          "weighted_toll": 11.715,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.467,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475810,
+          "opponent_name": "B. Rust",
+          "weighted_toll": 6.491,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.467,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482993,
+          "opponent_name": "A. Hayes",
+          "weighted_toll": 5.755,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.0,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "player_id": 8484869,
+  "fii_games": [
+    {
+      "game_id": 2026010016,
+      "date": "2026-09-21",
+      "fii_per_60": 700.299,
+      "total_weighted_toll": 856.699,
+      "total_shared_toi_min": 73.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481551,
+          "opponent_name": "C. Ellis",
+          "weighted_toll": 712.968,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 918.0,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476285,
+          "opponent_name": "M. Peca",
+          "weighted_toll": 20.716,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.911,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481564,
+          "opponent_name": "R. Johnson",
+          "weighted_toll": 20.088,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 25.208,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484305,
+          "opponent_name": "Z. Metsa",
+          "weighted_toll": 17.776,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.408,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485404,
+          "opponent_name": "R. Mrtka",
+          "weighted_toll": 16.572,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.4,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

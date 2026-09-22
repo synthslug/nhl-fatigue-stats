@@ -1,0 +1,79 @@
+{
+  "player_id": 8482744,
+  "fii_games": [
+    {
+      "game_id": 2026010017,
+      "date": "2026-09-21",
+      "fii_per_60": 823.182,
+      "total_weighted_toll": 954.891,
+      "total_shared_toi_min": 69.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8485545,
+          "opponent_name": "M. Postava",
+          "weighted_toll": 861.265,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 900.0,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478434,
+          "opponent_name": "K. Kolesar",
+          "weighted_toll": 12.068,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.162,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480196,
+          "opponent_name": "J. Bryson",
+          "weighted_toll": 11.266,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.403,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483679,
+          "opponent_name": "A. Johansson",
+          "weighted_toll": 10.903,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.444,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480879,
+          "opponent_name": "J. Bernard-Docker",
+          "weighted_toll": 10.535,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 11.2,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

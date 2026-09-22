@@ -1,0 +1,79 @@
+{
+  "player_id": 8485630,
+  "fii_games": [
+    {
+      "game_id": 2026010017,
+      "date": "2026-09-21",
+      "fii_per_60": 957.539,
+      "total_weighted_toll": 952.751,
+      "total_shared_toi_min": 59.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8485545,
+          "opponent_name": "M. Postava",
+          "weighted_toll": 860.119,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 900.0,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484160,
+          "opponent_name": "N. Danielson",
+          "weighted_toll": 11.536,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.362,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480196,
+          "opponent_name": "J. Bryson",
+          "weighted_toll": 10.553,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 12.765,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483679,
+          "opponent_name": "A. Johansson",
+          "weighted_toll": 10.409,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.658,
+            "pursuit": 0.0,
+            "zone_time": 0.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480879,
+          "opponent_name": "J. Bernard-Docker",
+          "weighted_toll": 8.714,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.911,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
