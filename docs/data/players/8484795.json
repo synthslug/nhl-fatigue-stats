@@ -1,0 +1,79 @@
+{
+  "player_id": 8484795,
+  "fii_games": [
+    {
+      "game_id": 2026010030,
+      "date": "2026-09-22",
+      "fii_per_60": 994.834,
+      "total_weighted_toll": 1183.853,
+      "total_shared_toi_min": 71.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475311,
+          "opponent_name": "D. Kuemper",
+          "weighted_toll": 1064.75,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1060.5,
+            "pursuit": 0.0,
+            "zone_time": 4.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479998,
+          "opponent_name": "M. Anderson",
+          "weighted_toll": 18.282,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.717,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483675,
+          "opponent_name": "K. Connors",
+          "weighted_toll": 14.034,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.033,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482922,
+          "opponent_name": "K. Kirsanov",
+          "weighted_toll": 12.752,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.009,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481732,
+          "opponent_name": "A. Lee",
+          "weighted_toll": 12.42,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.933,
+            "pursuit": 0.0,
+            "zone_time": 0.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

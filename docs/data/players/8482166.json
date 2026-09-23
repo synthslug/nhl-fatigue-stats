@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 103.552,
+      "total_weighted_toll": 174.283,
+      "total_shared_toi_min": 100.98,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 24.584,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.65,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483471,
+          "opponent_name": "B. Lambert",
+          "weighted_toll": 22.916,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.024,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480145,
+          "opponent_name": "N. Pionk",
+          "weighted_toll": 16.486,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.058,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476392,
+          "opponent_name": "A. Lowry",
+          "weighted_toll": 14.194,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.565,
+            "pursuit": 0.0,
+            "zone_time": 0.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475799,
+          "opponent_name": "N. Niederreiter",
+          "weighted_toll": 10.954,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.737,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

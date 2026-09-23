@@ -1,0 +1,153 @@
+{
+  "player_id": 8481491,
+  "fii_games": [
+    {
+      "game_id": 2025020660,
+      "date": "2026-01-04",
+      "fii_per_60": 197.927,
+      "total_weighted_toll": 162.3,
+      "total_shared_toi_min": 49.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479407,
+          "opponent_name": "J. Bratt",
+          "weighted_toll": 35.664,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 41.036,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481559,
+          "opponent_name": "J. Hughes",
+          "weighted_toll": 34.88,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 37.886,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8478414,
+          "opponent_name": "T. Meier",
+          "weighted_toll": 20.238,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.114,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478399,
+          "opponent_name": "J. Siegenthaler",
+          "weighted_toll": 17.422,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.515,
+            "pursuit": 0.0,
+            "zone_time": 1.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480002,
+          "opponent_name": "N. Hischier",
+          "weighted_toll": 11.228,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.932,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020671,
+      "date": "2026-01-06",
+      "fii_per_60": 190.658,
+      "total_weighted_toll": 135.367,
+      "total_shared_toi_min": 42.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481581,
+          "opponent_name": "T. Harley",
+          "weighted_toll": 43.308,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 41.064,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 6.0
+          }
+        },
+        {
+          "opponent_player_id": 8480036,
+          "opponent_name": "M. Heiskanen",
+          "weighted_toll": 19.111,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.274,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480027,
+          "opponent_name": "J. Robertson",
+          "weighted_toll": 13.195,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.036,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482145,
+          "opponent_name": "M. Bourque",
+          "weighted_toll": 11.89,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.271,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8475755,
+          "opponent_name": "A. Petrovic",
+          "weighted_toll": 9.555,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.694,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 2.0
+          }
+        }
+      ]
+    }
+  ]
+}

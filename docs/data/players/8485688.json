@@ -1,0 +1,79 @@
+{
+  "player_id": 8485688,
+  "fii_games": [
+    {
+      "game_id": 2026010026,
+      "date": "2026-09-22",
+      "fii_per_60": 907.806,
+      "total_weighted_toll": 726.245,
+      "total_shared_toi_min": 48.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481033,
+          "opponent_name": "A. Schmid",
+          "weighted_toll": 596.75,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 596.5,
+            "pursuit": 0.0,
+            "zone_time": 0.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 29.515,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 40.345,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477495,
+          "opponent_name": "S. Jones",
+          "weighted_toll": 22.611,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.833,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480185,
+          "opponent_name": "E. Luostarinen",
+          "weighted_toll": 14.4,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.565,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477935,
+          "opponent_name": "S. Bennett",
+          "weighted_toll": 13.803,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.176,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

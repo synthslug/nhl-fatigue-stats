@@ -222,6 +222,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010010,
+      "date": "2026-09-20",
+      "fii_per_60": 71.081,
+      "total_weighted_toll": 120.937,
+      "total_shared_toi_min": 102.08,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478055,
+          "opponent_name": "G. Forsling",
+          "weighted_toll": 15.557,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.25,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477932,
+          "opponent_name": "A. Ekblad",
+          "weighted_toll": 14.298,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.614,
+            "pursuit": 0.0,
+            "zone_time": 1.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477933,
+          "opponent_name": "S. Reinhart",
+          "weighted_toll": 12.778,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.69,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 10.786,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.646,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482113,
+          "opponent_name": "A. Lundell",
+          "weighted_toll": 10.134,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.143,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010026,
+      "date": "2026-09-22",
+      "fii_per_60": 87.869,
+      "total_weighted_toll": 137.954,
+      "total_shared_toi_min": 94.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477495,
+          "opponent_name": "S. Jones",
+          "weighted_toll": 18.022,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.193,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477933,
+          "opponent_name": "S. Reinhart",
+          "weighted_toll": 15.987,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.429,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477932,
+          "opponent_name": "A. Ekblad",
+          "weighted_toll": 14.957,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.375,
+            "pursuit": 0.0,
+            "zone_time": 4.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477493,
+          "opponent_name": "A. Barkov",
+          "weighted_toll": 13.867,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.564,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 13.084,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.734,
+            "pursuit": 0.0,
+            "zone_time": 3.15,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

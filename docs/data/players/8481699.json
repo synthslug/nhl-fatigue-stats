@@ -1,0 +1,79 @@
+{
+  "player_id": 8481699,
+  "fii_games": [
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 1247.22,
+      "total_weighted_toll": 1203.567,
+      "total_shared_toi_min": 57.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483711,
+          "opponent_name": "D. DiVincentiis",
+          "weighted_toll": 1116.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1114.0,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477938,
+          "opponent_name": "H. Fleury",
+          "weighted_toll": 22.135,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.167,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482459,
+          "opponent_name": "T. Bauer",
+          "weighted_toll": 13.969,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.755,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476392,
+          "opponent_name": "A. Lowry",
+          "weighted_toll": 9.46,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.773,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 8.165,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.567,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

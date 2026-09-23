@@ -1,0 +1,79 @@
+{
+  "player_id": 8484854,
+  "fii_games": [
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 897.344,
+      "total_weighted_toll": 1028.955,
+      "total_shared_toi_min": 68.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483083,
+          "opponent_name": "C. Ungar",
+          "weighted_toll": 965.615,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1114.0,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477953,
+          "opponent_name": "K. Kapanen",
+          "weighted_toll": 11.075,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.238,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476473,
+          "opponent_name": "C. Murphy",
+          "weighted_toll": 8.314,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.703,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482166,
+          "opponent_name": "S. Mukhamadullin",
+          "weighted_toll": 8.115,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.884,
+            "pursuit": 0.0,
+            "zone_time": 1.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478013,
+          "opponent_name": "J. Walman",
+          "weighted_toll": 6.248,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.462,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

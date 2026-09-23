@@ -74,6 +74,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010026,
+      "date": "2026-09-22",
+      "fii_per_60": 829.221,
+      "total_weighted_toll": 711.748,
+      "total_shared_toi_min": 51.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481033,
+          "opponent_name": "A. Schmid",
+          "weighted_toll": 597.15,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 596.5,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 29.144,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 39.438,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477932,
+          "opponent_name": "A. Ekblad",
+          "weighted_toll": 18.222,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.546,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477495,
+          "opponent_name": "S. Jones",
+          "weighted_toll": 15.572,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.702,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479314,
+          "opponent_name": "M. Tkachuk",
+          "weighted_toll": 10.884,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.5,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

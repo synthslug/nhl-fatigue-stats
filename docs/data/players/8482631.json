@@ -1,0 +1,79 @@
+{
+  "player_id": 8482631,
+  "fii_games": [
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 1219.805,
+      "total_weighted_toll": 1245.556,
+      "total_shared_toi_min": 61.27,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483711,
+          "opponent_name": "D. DiVincentiis",
+          "weighted_toll": 1118.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1114.0,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480289,
+          "opponent_name": "M. Barron",
+          "weighted_toll": 16.094,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.932,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477938,
+          "opponent_name": "H. Fleury",
+          "weighted_toll": 13.431,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.562,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 12.379,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.245,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482459,
+          "opponent_name": "T. Bauer",
+          "weighted_toll": 10.569,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.46,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

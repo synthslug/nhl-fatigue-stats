@@ -296,6 +296,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 104.257,
+      "total_weighted_toll": 115.58,
+      "total_shared_toi_min": 66.52,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484242,
+          "opponent_name": "B. Yager",
+          "weighted_toll": 15.073,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.608,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 14.029,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.008,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480145,
+          "opponent_name": "N. Pionk",
+          "weighted_toll": 13.4,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.227,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475799,
+          "opponent_name": "N. Niederreiter",
+          "weighted_toll": 12.579,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.308,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483471,
+          "opponent_name": "B. Lambert",
+          "weighted_toll": 8.145,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.083,
+            "pursuit": 0.0,
+            "zone_time": 1.05,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

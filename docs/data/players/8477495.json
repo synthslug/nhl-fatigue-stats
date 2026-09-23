@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010026,
+      "date": "2026-09-22",
+      "fii_per_60": 116.201,
+      "total_weighted_toll": 162.101,
+      "total_shared_toi_min": 83.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482785,
+          "opponent_name": "J. Robidas",
+          "weighted_toll": 23.765,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.3,
+            "pursuit": 0.0,
+            "zone_time": 3.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480058,
+          "opponent_name": "P. Joseph",
+          "weighted_toll": 17.916,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.528,
+            "pursuit": 0.0,
+            "zone_time": 4.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482860,
+          "opponent_name": "A. Heimosalmi",
+          "weighted_toll": 15.662,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.525,
+            "pursuit": 0.0,
+            "zone_time": 4.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485563,
+          "opponent_name": "C. Cerrato",
+          "weighted_toll": 15.657,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.133,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484392,
+          "opponent_name": "F. Unger Sorum",
+          "weighted_toll": 12.953,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.556,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

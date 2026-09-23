@@ -1,0 +1,79 @@
+{
+  "player_id": 8485661,
+  "fii_games": [
+    {
+      "game_id": 2026010032,
+      "date": "2026-09-22",
+      "fii_per_60": 881.671,
+      "total_weighted_toll": 1035.963,
+      "total_shared_toi_min": 70.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482137,
+          "opponent_name": "Y. Askarov",
+          "weighted_toll": 903.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 900.0,
+            "pursuit": 0.0,
+            "zone_time": 3.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484152,
+          "opponent_name": "L. Cagnoni",
+          "weighted_toll": 22.781,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.648,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476885,
+          "opponent_name": "J. Trouba",
+          "weighted_toll": 17.704,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.0,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486205,
+          "opponent_name": "P. Sinn",
+          "weighted_toll": 14.008,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.5,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482700,
+          "opponent_name": "N. Allan",
+          "weighted_toll": 13.548,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.3,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
