@@ -1,0 +1,79 @@
+{
+  "player_id": 8485467,
+  "fii_games": [
+    {
+      "game_id": 2026010036,
+      "date": "2026-09-23",
+      "fii_per_60": 971.821,
+      "total_weighted_toll": 992.877,
+      "total_shared_toi_min": 61.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476999,
+          "opponent_name": "L. Ullmark",
+          "weighted_toll": 868.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 864.5,
+            "pursuit": 0.0,
+            "zone_time": 4.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484534,
+          "opponent_name": "D. Toure",
+          "weighted_toll": 30.748,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.564,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483683,
+          "opponent_name": "T. Hamara",
+          "weighted_toll": 14.744,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.354,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477018,
+          "opponent_name": "B. Hutton",
+          "weighted_toll": 13.888,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.139,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481528,
+          "opponent_name": "D. Cozens",
+          "weighted_toll": 12.643,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.837,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

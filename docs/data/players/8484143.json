@@ -1,0 +1,153 @@
+{
+  "player_id": 8484143,
+  "fii_games": [
+    {
+      "game_id": 2026010003,
+      "date": "2026-09-19",
+      "fii_per_60": 524.475,
+      "total_weighted_toll": 649.621,
+      "total_shared_toi_min": 74.32,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477465,
+          "opponent_name": "T. Jarry",
+          "weighted_toll": 594.4,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 592.3,
+            "pursuit": 0.0,
+            "zone_time": 2.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479388,
+          "opponent_name": "R. Stillman",
+          "weighted_toll": 11.212,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.568,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482703,
+          "opponent_name": "C. Dach",
+          "weighted_toll": 8.856,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.125,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486161,
+          "opponent_name": "O. Michaels",
+          "weighted_toll": 7.558,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.825,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480834,
+          "opponent_name": "T. Emberson",
+          "weighted_toll": 6.435,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.133,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010023,
+      "date": "2026-09-22",
+      "fii_per_60": 929.568,
+      "total_weighted_toll": 1020.975,
+      "total_shared_toi_min": 65.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483083,
+          "opponent_name": "C. Ungar",
+          "weighted_toll": 965.528,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1114.0,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482166,
+          "opponent_name": "S. Mukhamadullin",
+          "weighted_toll": 12.712,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.683,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476454,
+          "opponent_name": "R. Nugent-Hopkins",
+          "weighted_toll": 8.477,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.719,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476473,
+          "opponent_name": "C. Murphy",
+          "weighted_toll": 8.454,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 4.55,
+            "pursuit": 0.0,
+            "zone_time": 3.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478013,
+          "opponent_name": "J. Walman",
+          "weighted_toll": 5.128,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 2.332,
+            "pursuit": 0.0,
+            "zone_time": 3.3,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

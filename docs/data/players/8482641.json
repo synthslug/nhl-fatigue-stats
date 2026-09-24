@@ -222,6 +222,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010034,
+      "date": "2026-09-23",
+      "fii_per_60": 111.293,
+      "total_weighted_toll": 147.834,
+      "total_shared_toi_min": 79.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475958,
+          "opponent_name": "M. Sgarbossa",
+          "weighted_toll": 22.446,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.364,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484938,
+          "opponent_name": "A. Hyry",
+          "weighted_toll": 15.778,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.167,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476902,
+          "opponent_name": "E. Lindell",
+          "weighted_toll": 14.183,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.675,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480036,
+          "opponent_name": "M. Heiskanen",
+          "weighted_toll": 12.905,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.309,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483425,
+          "opponent_name": "L. Bichsel",
+          "weighted_toll": 12.539,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.871,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
