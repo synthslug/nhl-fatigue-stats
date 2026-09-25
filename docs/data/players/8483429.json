@@ -74,6 +74,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010045,
+      "date": "2026-09-24",
+      "fii_per_60": 933.195,
+      "total_weighted_toll": 814.99,
+      "total_shared_toi_min": 52.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476914,
+          "opponent_name": "J. Korpisalo",
+          "weighted_toll": 707.867,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 703.667,
+            "pursuit": 0.0,
+            "zone_time": 4.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484169,
+          "opponent_name": "D. Fortescue",
+          "weighted_toll": 19.544,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.165,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484210,
+          "opponent_name": "G. Perreault",
+          "weighted_toll": 12.705,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.875,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481743,
+          "opponent_name": "M. Del Gaizo",
+          "weighted_toll": 12.169,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.125,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482666,
+          "opponent_name": "S. Morrow",
+          "weighted_toll": 10.365,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.75,
+            "pursuit": 0.0,
+            "zone_time": 0.1,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

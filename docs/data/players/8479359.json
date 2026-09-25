@@ -1110,6 +1110,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010024,
+      "date": "2026-09-22",
+      "fii_per_60": 68.872,
+      "total_weighted_toll": 67.15,
+      "total_shared_toi_min": 58.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484777,
+          "opponent_name": "L. Marrelli",
+          "weighted_toll": 16.386,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.019,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482678,
+          "opponent_name": "C. Ceulemans",
+          "weighted_toll": 13.818,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.6,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481161,
+          "opponent_name": "J. Christiansen",
+          "weighted_toll": 8.741,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.75,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486177,
+          "opponent_name": "B. Buckberger",
+          "weighted_toll": 5.346,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.322,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485469,
+          "opponent_name": "J. Williams",
+          "weighted_toll": 4.008,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 4.135,
+            "pursuit": 0.0,
+            "zone_time": 0.7,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1,0 +1,79 @@
+{
+  "player_id": 8484803,
+  "fii_games": [
+    {
+      "game_id": 2026010047,
+      "date": "2026-09-24",
+      "fii_per_60": 1264.132,
+      "total_weighted_toll": 1308.377,
+      "total_shared_toi_min": 62.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482657,
+          "opponent_name": "S. Cossa",
+          "weighted_toll": 1167.25,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1161.0,
+            "pursuit": 0.0,
+            "zone_time": 6.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483436,
+          "opponent_name": "A. Duda",
+          "weighted_toll": 22.147,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.934,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480084,
+          "opponent_name": "N. DeSimone",
+          "weighted_toll": 15.953,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.476,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484386,
+          "opponent_name": "D. Simashev",
+          "weighted_toll": 15.64,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.677,
+            "pursuit": 0.0,
+            "zone_time": 3.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477220,
+          "opponent_name": "N. Schmidt",
+          "weighted_toll": 14.811,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.039,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
