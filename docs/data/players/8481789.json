@@ -296,6 +296,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010045,
+      "date": "2026-09-24",
+      "fii_per_60": 651.851,
+      "total_weighted_toll": 806.123,
+      "total_shared_toi_min": 74.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482076,
+          "opponent_name": "N. Daws",
+          "weighted_toll": 650.0,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 642.6,
+            "pursuit": 0.0,
+            "zone_time": 7.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483695,
+          "opponent_name": "A. Lombardi",
+          "weighted_toll": 26.007,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.5,
+            "pursuit": 0.0,
+            "zone_time": 1.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476474,
+          "opponent_name": "S. Noesen",
+          "weighted_toll": 23.784,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 33.929,
+            "pursuit": 0.0,
+            "zone_time": 0.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480003,
+          "opponent_name": "J. Boqvist",
+          "weighted_toll": 23.047,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.892,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481609,
+          "opponent_name": "V. Kolyachonok",
+          "weighted_toll": 13.742,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.942,
+            "pursuit": 0.0,
+            "zone_time": 3.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010051,
+      "date": "2026-09-25",
+      "fii_per_60": 74.854,
+      "total_weighted_toll": 97.31,
+      "total_shared_toi_min": 78.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478115,
+          "opponent_name": "P. Engvall",
+          "weighted_toll": 15.413,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.022,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480853,
+          "opponent_name": "L. Foudy",
+          "weighted_toll": 12.648,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.814,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481014,
+          "opponent_name": "A. Romanov",
+          "weighted_toll": 12.315,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.224,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477506,
+          "opponent_name": "R. Pulock",
+          "weighted_toll": 8.234,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.157,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485352,
+          "opponent_name": "K. Aitcheson",
+          "weighted_toll": 6.714,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.878,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

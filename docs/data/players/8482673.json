@@ -74,6 +74,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010036,
+      "date": "2026-09-23",
+      "fii_per_60": 84.531,
+      "total_weighted_toll": 98.62,
+      "total_shared_toi_min": 70.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484540,
+          "opponent_name": "B. Smith",
+          "weighted_toll": 16.729,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.667,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482126,
+          "opponent_name": "E. Andrae",
+          "weighted_toll": 14.362,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.5,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481662,
+          "opponent_name": "H. Rybinski",
+          "weighted_toll": 9.375,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.792,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476927,
+          "opponent_name": "T. Blueger",
+          "weighted_toll": 7.956,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.083,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479026,
+          "opponent_name": "P. Myers",
+          "weighted_toll": 7.151,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.059,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
