@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010058,
+      "date": "2026-09-26",
+      "fii_per_60": 137.362,
+      "total_weighted_toll": 192.307,
+      "total_shared_toi_min": 84.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484783,
+          "opponent_name": "A. Levshunov",
+          "weighted_toll": 19.894,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.643,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485391,
+          "opponent_name": "A. Frondell",
+          "weighted_toll": 19.03,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 10.3,
+            "pursuit": 0.0,
+            "zone_time": 5.6,
+            "rush": 4.0
+          }
+        },
+        {
+          "opponent_player_id": 8484185,
+          "opponent_name": "N. Lardis",
+          "weighted_toll": 17.534,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.107,
+            "pursuit": 0.0,
+            "zone_time": 0.75,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8477479,
+          "opponent_name": "T. Bertuzzi",
+          "weighted_toll": 17.468,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.625,
+            "pursuit": 0.0,
+            "zone_time": 4.65,
+            "rush": 4.0
+          }
+        },
+        {
+          "opponent_player_id": 8481519,
+          "opponent_name": "S. Knight",
+          "weighted_toll": 15.9,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 11.9,
+            "rush": 4.0
+          }
+        }
+      ]
     }
   ]
 }

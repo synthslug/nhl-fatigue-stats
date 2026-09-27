@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026010059,
+      "date": "2026-09-26",
+      "fii_per_60": 88.054,
+      "total_weighted_toll": 148.224,
+      "total_shared_toi_min": 101.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483433,
+          "opponent_name": "J. Devine",
+          "weighted_toll": 21.723,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 37.909,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484933,
+          "opponent_name": "M. Hovorka",
+          "weighted_toll": 15.794,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.495,
+            "pursuit": 0.0,
+            "zone_time": 1.85,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8485004,
+          "opponent_name": "M. Shuravin",
+          "weighted_toll": 15.422,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.562,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481556,
+          "opponent_name": "J. Beecher",
+          "weighted_toll": 14.588,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.141,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479414,
+          "opponent_name": "N. Bastian",
+          "weighted_toll": 10.388,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.589,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

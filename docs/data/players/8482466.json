@@ -1,0 +1,79 @@
+{
+  "player_id": 8482466,
+  "fii_games": [
+    {
+      "game_id": 2026010033,
+      "date": "2026-09-23",
+      "fii_per_60": 670.297,
+      "total_weighted_toll": 545.175,
+      "total_shared_toi_min": 48.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480843,
+          "opponent_name": "L. Dostal",
+          "weighted_toll": 434.467,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 429.667,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481538,
+          "opponent_name": "J. Caulfield",
+          "weighted_toll": 21.11,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.656,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484396,
+          "opponent_name": "Y. Sidorov",
+          "weighted_toll": 14.252,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.75,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484262,
+          "opponent_name": "T. Mitchell",
+          "weighted_toll": 14.047,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.114,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485512,
+          "opponent_name": "T. Washe",
+          "weighted_toll": 13.314,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.216,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 2.0
+          }
+        }
+      ]
+    }
+  ]
+}
