@@ -222,6 +222,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020001,
+      "date": "2026-09-29",
+      "fii_per_60": 87.887,
+      "total_weighted_toll": 143.255,
+      "total_shared_toi_min": 97.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482702,
+          "opponent_name": "L. Stankoven",
+          "weighted_toll": 16.151,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.405,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482809,
+          "opponent_name": "J. Blake",
+          "weighted_toll": 13.933,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.692,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478427,
+          "opponent_name": "S. Aho",
+          "weighted_toll": 12.066,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.095,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477940,
+          "opponent_name": "N. Ehlers",
+          "weighted_toll": 11.41,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.147,
+            "pursuit": 0.0,
+            "zone_time": 2.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480336,
+          "opponent_name": "S. Walker",
+          "weighted_toll": 11.356,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.535,
+            "pursuit": 0.0,
+            "zone_time": 5.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020016,
+      "date": "2026-10-01",
+      "fii_per_60": 108.8,
+      "total_weighted_toll": 188.949,
+      "total_shared_toi_min": 104.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476885,
+          "opponent_name": "J. Trouba",
+          "weighted_toll": 35.581,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.927,
+            "pursuit": 0.0,
+            "zone_time": 9.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484801,
+          "opponent_name": "M. Celebrini",
+          "weighted_toll": 21.79,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.96,
+            "pursuit": 0.0,
+            "zone_time": 3.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482700,
+          "opponent_name": "N. Allan",
+          "weighted_toll": 18.16,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.092,
+            "pursuit": 0.0,
+            "zone_time": 7.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482137,
+          "opponent_name": "Y. Askarov",
+          "weighted_toll": 16.1,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 16.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484227,
+          "opponent_name": "W. Smith",
+          "weighted_toll": 15.381,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.375,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

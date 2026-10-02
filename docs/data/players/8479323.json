@@ -296,6 +296,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020003,
+      "date": "2026-09-29",
+      "fii_per_60": 64.831,
+      "total_weighted_toll": 111.401,
+      "total_shared_toi_min": 103.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477507,
+          "opponent_name": "N. Zadorov",
+          "weighted_toll": 14.431,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.849,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477365,
+          "opponent_name": "C. Clifton",
+          "weighted_toll": 14.184,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.849,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477956,
+          "opponent_name": "D. Pastrnak",
+          "weighted_toll": 10.034,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.365,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478401,
+          "opponent_name": "P. Zacha",
+          "weighted_toll": 9.294,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.8,
+            "pursuit": 0.0,
+            "zone_time": 3.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479661,
+          "opponent_name": "T. Jeannot",
+          "weighted_toll": 7.813,
+          "role_weight": 0.239,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.375,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020010,
+      "date": "2026-10-01",
+      "fii_per_60": 405.677,
+      "total_weighted_toll": 586.203,
+      "total_shared_toi_min": 86.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476883,
+          "opponent_name": "A. Vasilevskiy",
+          "weighted_toll": 493.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 485.6,
+            "pursuit": 0.0,
+            "zone_time": 7.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476453,
+          "opponent_name": "N. Kucherov",
+          "weighted_toll": 15.058,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.564,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478519,
+          "opponent_name": "A. Cirelli",
+          "weighted_toll": 14.172,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.972,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475167,
+          "opponent_name": "V. Hedman",
+          "weighted_toll": 10.07,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.033,
+            "pursuit": 0.0,
+            "zone_time": 4.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478010,
+          "opponent_name": "B. Point",
+          "weighted_toll": 9.316,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.0,
+            "pursuit": 0.0,
+            "zone_time": 1.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
