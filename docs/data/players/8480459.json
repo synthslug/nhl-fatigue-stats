@@ -222,6 +222,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020020,
+      "date": "2026-10-02",
+      "fii_per_60": 1175.459,
+      "total_weighted_toll": 957.999,
+      "total_shared_toi_min": 48.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479979,
+          "opponent_name": "J. Oettinger",
+          "weighted_toll": 769.9,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 767.0,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478420,
+          "opponent_name": "M. Rantanen",
+          "weighted_toll": 57.99,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 61.889,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482740,
+          "opponent_name": "W. Johnston",
+          "weighted_toll": 35.728,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 39.467,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480027,
+          "opponent_name": "J. Robertson",
+          "weighted_toll": 25.187,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 29.795,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480036,
+          "opponent_name": "M. Heiskanen",
+          "weighted_toll": 16.206,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.265,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

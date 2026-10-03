@@ -1036,6 +1036,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020021,
+      "date": "2026-10-02",
+      "fii_per_60": 195.366,
+      "total_weighted_toll": 216.965,
+      "total_shared_toi_min": 66.63,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478483,
+          "opponent_name": "M. Marner",
+          "weighted_toll": 37.028,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 39.617,
+            "pursuit": 0.0,
+            "zone_time": 1.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478403,
+          "opponent_name": "J. Eichel",
+          "weighted_toll": 30.913,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 35.056,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477447,
+          "opponent_name": "S. Theodore",
+          "weighted_toll": 28.526,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.812,
+            "pursuit": 0.0,
+            "zone_time": 1.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476448,
+          "opponent_name": "W. Karlsson",
+          "weighted_toll": 26.783,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 33.7,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475913,
+          "opponent_name": "M. Stone",
+          "weighted_toll": 23.578,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.067,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

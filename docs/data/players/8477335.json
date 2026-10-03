@@ -1,0 +1,153 @@
+{
+  "player_id": 8477335,
+  "fii_games": [
+    {
+      "game_id": 2026010001,
+      "date": "2026-09-19",
+      "fii_per_60": 97.103,
+      "total_weighted_toll": 133.355,
+      "total_shared_toi_min": 82.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483705,
+          "opponent_name": "A. Koromyslov",
+          "weighted_toll": 18.984,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.9,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485382,
+          "opponent_name": "J. Carbonneau",
+          "weighted_toll": 18.23,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.591,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481006,
+          "opponent_name": "T. Tucker",
+          "weighted_toll": 17.269,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.944,
+            "pursuit": 0.0,
+            "zone_time": 5.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482784,
+          "opponent_name": "Z. Dean",
+          "weighted_toll": 16.028,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.432,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480459,
+          "opponent_name": "P. Suter",
+          "weighted_toll": 13.268,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.01,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010021,
+      "date": "2026-09-21",
+      "fii_per_60": 50.595,
+      "total_weighted_toll": 68.401,
+      "total_shared_toi_min": 81.12,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481598,
+          "opponent_name": "P. Broberg",
+          "weighted_toll": 18.141,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.69,
+            "pursuit": 0.0,
+            "zone_time": 2.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483705,
+          "opponent_name": "A. Koromyslov",
+          "weighted_toll": 10.123,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.545,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476897,
+          "opponent_name": "O. Sundqvist",
+          "weighted_toll": 6.688,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.533,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483516,
+          "opponent_name": "J. Snuggerud",
+          "weighted_toll": 6.469,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.333,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484790,
+          "opponent_name": "A. Jiricek",
+          "weighted_toll": 4.686,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.557,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

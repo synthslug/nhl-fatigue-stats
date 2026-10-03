@@ -444,6 +444,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020017,
+      "date": "2026-10-02",
+      "fii_per_60": 817.006,
+      "total_weighted_toll": 1215.977,
+      "total_shared_toi_min": 89.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476434,
+          "opponent_name": "J. Gibson",
+          "weighted_toll": 1086.833,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1079.333,
+            "pursuit": 0.0,
+            "zone_time": 7.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477429,
+          "opponent_name": "A. Copp",
+          "weighted_toll": 17.822,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.023,
+            "pursuit": 0.0,
+            "zone_time": 4.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481542,
+          "opponent_name": "M. Seider",
+          "weighted_toll": 17.376,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.939,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482078,
+          "opponent_name": "L. Raymond",
+          "weighted_toll": 16.914,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.25,
+            "pursuit": 0.0,
+            "zone_time": 2.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481607,
+          "opponent_name": "A. Johansson",
+          "weighted_toll": 11.738,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.681,
+            "pursuit": 0.0,
+            "zone_time": 4.6,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
