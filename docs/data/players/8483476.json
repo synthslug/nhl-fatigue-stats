@@ -592,6 +592,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020033,
+      "date": "2026-10-03",
+      "fii_per_60": 52.884,
+      "total_weighted_toll": 41.602,
+      "total_shared_toi_min": 47.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477810,
+          "opponent_name": "J. Hanley",
+          "weighted_toll": 7.147,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.333,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478136,
+          "opponent_name": "J. Middleton",
+          "weighted_toll": 6.292,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.556,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483495,
+          "opponent_name": "S. Nemec",
+          "weighted_toll": 5.914,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.631,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482445,
+          "opponent_name": "D. Cooley",
+          "weighted_toll": 3.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484768,
+          "opponent_name": "Z. Parekh",
+          "weighted_toll": 3.344,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.922,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -518,6 +518,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020033,
+      "date": "2026-10-03",
+      "fii_per_60": 100.965,
+      "total_weighted_toll": 98.441,
+      "total_shared_toi_min": 58.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484768,
+          "opponent_name": "Z. Parekh",
+          "weighted_toll": 22.451,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.238,
+            "pursuit": 0.0,
+            "zone_time": 0.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483495,
+          "opponent_name": "S. Nemec",
+          "weighted_toll": 12.478,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.812,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478136,
+          "opponent_name": "J. Middleton",
+          "weighted_toll": 11.925,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.911,
+            "pursuit": 0.0,
+            "zone_time": 0.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477810,
+          "opponent_name": "J. Hanley",
+          "weighted_toll": 10.046,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.578,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474150,
+          "opponent_name": "M. Backlund",
+          "weighted_toll": 9.138,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.729,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
