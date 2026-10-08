@@ -518,6 +518,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020053,
+      "date": "2026-10-07",
+      "fii_per_60": 71.127,
+      "total_weighted_toll": 61.762,
+      "total_shared_toi_min": 52.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478438,
+          "opponent_name": "T. Novak",
+          "weighted_toll": 6.939,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.233,
+            "pursuit": 0.0,
+            "zone_time": 0.35,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8485414,
+          "opponent_name": "B. Kindel",
+          "weighted_toll": 5.949,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.433,
+            "pursuit": 0.0,
+            "zone_time": 2.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483398,
+          "opponent_name": "D. Carlile",
+          "weighted_toll": 5.741,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 5.859,
+            "pursuit": 0.0,
+            "zone_time": 1.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477845,
+          "opponent_name": "T. van Riemsdyk",
+          "weighted_toll": 5.608,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.242,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479398,
+          "opponent_name": "S. Girard",
+          "weighted_toll": 5.59,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.99,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }
