@@ -1,6 +1,24 @@
 {
-  "last_run_utc": "2026-10-11T16:09:36.711302+00:00",
+  "last_run_utc": "2026-10-12T19:38:35.080185+00:00",
   "recent": [
+    {
+      "game_id": 2026020086,
+      "status": "ok",
+      "ingested_at": "2026-10-12T19:38:33.847045",
+      "error": null
+    },
+    {
+      "game_id": 2026020085,
+      "status": "ok",
+      "ingested_at": "2026-10-12T19:38:33.037172",
+      "error": null
+    },
+    {
+      "game_id": 2026020084,
+      "status": "ok",
+      "ingested_at": "2026-10-12T19:38:32.020363",
+      "error": null
+    },
     {
       "game_id": 2026020083,
       "status": "ok",
@@ -161,24 +179,6 @@
       "game_id": 2026020057,
       "status": "ok",
       "ingested_at": "2026-10-09T16:49:30.422806",
-      "error": null
-    },
-    {
-      "game_id": 2026020056,
-      "status": "ok",
-      "ingested_at": "2026-10-09T16:49:29.524518",
-      "error": null
-    },
-    {
-      "game_id": 2026020055,
-      "status": "ok",
-      "ingested_at": "2026-10-08T17:12:57.850179",
-      "error": null
-    },
-    {
-      "game_id": 2026020054,
-      "status": "ok",
-      "ingested_at": "2026-10-08T17:12:57.055971",
       "error": null
     }
   ],
