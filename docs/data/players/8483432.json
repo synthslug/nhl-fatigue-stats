@@ -1,0 +1,153 @@
+{
+  "player_id": 8483432,
+  "fii_games": [
+    {
+      "game_id": 2026010061,
+      "date": "2026-09-26",
+      "fii_per_60": 67.723,
+      "total_weighted_toll": 71.786,
+      "total_shared_toi_min": 63.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481607,
+          "opponent_name": "A. Johansson",
+          "weighted_toll": 11.799,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.629,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484223,
+          "opponent_name": "A. Sandin-Pellikka",
+          "weighted_toll": 10.414,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.129,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484471,
+          "opponent_name": "E. Finnie",
+          "weighted_toll": 10.171,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.375,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481542,
+          "opponent_name": "M. Seider",
+          "weighted_toll": 7.076,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.857,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483464,
+          "opponent_name": "M. Kasper",
+          "weighted_toll": 6.685,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.633,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020129,
+      "date": "2026-10-17",
+      "fii_per_60": 1878.332,
+      "total_weighted_toll": 1108.216,
+      "total_shared_toi_min": 35.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482193,
+          "opponent_name": "D. Garand",
+          "weighted_toll": 997.7,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 994.0,
+            "pursuit": 0.0,
+            "zone_time": 3.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482109,
+          "opponent_name": "A. Lafreni\u00e8re",
+          "weighted_toll": 18.916,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.348,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482073,
+          "opponent_name": "B. Schneider",
+          "weighted_toll": 17.883,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.136,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484210,
+          "opponent_name": "G. Perreault",
+          "weighted_toll": 16.387,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.152,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476459,
+          "opponent_name": "M. Zibanejad",
+          "weighted_toll": 15.231,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.444,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

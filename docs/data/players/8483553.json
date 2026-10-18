@@ -1702,6 +1702,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020134,
+      "date": "2026-10-17",
+      "fii_per_60": 101.391,
+      "total_weighted_toll": 155.466,
+      "total_shared_toi_min": 92.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481527,
+          "opponent_name": "K. Korczak",
+          "weighted_toll": 25.33,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 24.317,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474578,
+          "opponent_name": "E. Karlsson",
+          "weighted_toll": 21.705,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.688,
+            "pursuit": 0.0,
+            "zone_time": 0.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483398,
+          "opponent_name": "D. Carlile",
+          "weighted_toll": 21.381,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.291,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482758,
+          "opponent_name": "V. Koivunen",
+          "weighted_toll": 12.849,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 28.508,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481056,
+          "opponent_name": "S. Stastney",
+          "weighted_toll": 8.582,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.562,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

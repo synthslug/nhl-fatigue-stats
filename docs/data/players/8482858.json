@@ -1924,6 +1924,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020124,
+      "date": "2026-10-17",
+      "fii_per_60": 96.681,
+      "total_weighted_toll": 160.491,
+      "total_shared_toi_min": 99.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477495,
+          "opponent_name": "S. Jones",
+          "weighted_toll": 25.495,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.289,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477933,
+          "opponent_name": "S. Reinhart",
+          "weighted_toll": 19.824,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.136,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 17.678,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.018,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477409,
+          "opponent_name": "C. Verhaeghe",
+          "weighted_toll": 14.779,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.667,
+            "pursuit": 0.0,
+            "zone_time": 1.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484304,
+          "opponent_name": "U. Balinskis",
+          "weighted_toll": 14.733,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.0,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

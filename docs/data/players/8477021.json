@@ -419,7 +419,7 @@
         },
         {
           "opponent_player_id": 8484392,
-          "opponent_name": "F. Unger Sorum",
+          "opponent_name": "F. Unger S\u00f6rum",
           "weighted_toll": 11.103,
           "role_weight": 0.508,
           "components": {
@@ -958,6 +958,80 @@
             "shift_forced": 18.843,
             "pursuit": 0.0,
             "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020131,
+      "date": "2026-10-17",
+      "fii_per_60": 138.89,
+      "total_weighted_toll": 197.301,
+      "total_shared_toi_min": 85.23,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482077,
+          "opponent_name": "D. Holloway",
+          "weighted_toll": 29.72,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 37.083,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481598,
+          "opponent_name": "P. Broberg",
+          "weighted_toll": 26.907,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.467,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480023,
+          "opponent_name": "R. Thomas",
+          "weighted_toll": 24.818,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.656,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483516,
+          "opponent_name": "J. Snuggerud",
+          "weighted_toll": 23.142,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.586,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477402,
+          "opponent_name": "P. Buchnevich",
+          "weighted_toll": 15.327,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.915,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
             "rush": 0.0
           }
         }

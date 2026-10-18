@@ -1850,6 +1850,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020127,
+      "date": "2026-10-17",
+      "fii_per_60": 148.783,
+      "total_weighted_toll": 184.243,
+      "total_shared_toi_min": 74.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475200,
+          "opponent_name": "D. Orlov",
+          "weighted_toll": 35.392,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 49.929,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477505,
+          "opponent_name": "A. Wennberg",
+          "weighted_toll": 20.59,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.982,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484801,
+          "opponent_name": "M. Celebrini",
+          "weighted_toll": 17.72,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.1,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484227,
+          "opponent_name": "W. Smith",
+          "weighted_toll": 16.649,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.035,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476885,
+          "opponent_name": "J. Trouba",
+          "weighted_toll": 15.771,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.859,
+            "pursuit": 0.0,
+            "zone_time": 4.35,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

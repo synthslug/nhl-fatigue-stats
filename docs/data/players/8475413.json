@@ -296,6 +296,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020129,
+      "date": "2026-10-17",
+      "fii_per_60": 1242.501,
+      "total_weighted_toll": 799.342,
+      "total_shared_toi_min": 38.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482982,
+          "opponent_name": "J. Greaves",
+          "weighted_toll": 685.15,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 683.25,
+            "pursuit": 0.0,
+            "zone_time": 1.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484166,
+          "opponent_name": "A. Fantilli",
+          "weighted_toll": 21.464,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.692,
+            "pursuit": 0.0,
+            "zone_time": 0.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477497,
+          "opponent_name": "S. Monahan",
+          "weighted_toll": 15.643,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.712,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479671,
+          "opponent_name": "M. Olivier",
+          "weighted_toll": 15.455,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.429,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475790,
+          "opponent_name": "E. Gudbranson",
+          "weighted_toll": 14.655,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.683,
+            "pursuit": 0.0,
+            "zone_time": 0.85,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

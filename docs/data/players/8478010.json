@@ -1036,6 +1036,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020123,
+      "date": "2026-10-17",
+      "fii_per_60": 75.432,
+      "total_weighted_toll": 111.534,
+      "total_shared_toi_min": 88.72,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483678,
+          "opponent_name": "E. Pettersson",
+          "weighted_toll": 32.067,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.018,
+            "pursuit": 0.0,
+            "zone_time": 6.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479425,
+          "opponent_name": "F. Hronek",
+          "weighted_toll": 14.059,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.267,
+            "pursuit": 0.0,
+            "zone_time": 6.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484240,
+          "opponent_name": "T. Willander",
+          "weighted_toll": 8.997,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.308,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481032,
+          "opponent_name": "P. Cotter",
+          "weighted_toll": 8.673,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.675,
+            "pursuit": 0.0,
+            "zone_time": 3.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480947,
+          "opponent_name": "K. Lankinen",
+          "weighted_toll": 8.3,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.3,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

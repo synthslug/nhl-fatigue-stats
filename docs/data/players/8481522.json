@@ -1850,6 +1850,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020126,
+      "date": "2026-10-17",
+      "fii_per_60": 1434.513,
+      "total_weighted_toll": 1296.242,
+      "total_shared_toi_min": 54.22,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484170,
+          "opponent_name": "J. Fowler",
+          "weighted_toll": 1148.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1146.0,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483515,
+          "opponent_name": "J. Slafkovsk\u00fd",
+          "weighted_toll": 38.034,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 55.375,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481540,
+          "opponent_name": "C. Caufield",
+          "weighted_toll": 25.569,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 34.95,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482087,
+          "opponent_name": "K. Guhle",
+          "weighted_toll": 15.327,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 13.833,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482964,
+          "opponent_name": "A. Xhekaj",
+          "weighted_toll": 13.083,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 34.46,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

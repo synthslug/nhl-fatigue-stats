@@ -1850,6 +1850,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020126,
+      "date": "2026-10-17",
+      "fii_per_60": 1003.209,
+      "total_weighted_toll": 1377.74,
+      "total_shared_toi_min": 82.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484170,
+          "opponent_name": "J. Fowler",
+          "weighted_toll": 1153.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1146.0,
+            "pursuit": 0.0,
+            "zone_time": 7.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483457,
+          "opponent_name": "L. Hutson",
+          "weighted_toll": 34.183,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 33.633,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478851,
+          "opponent_name": "A. Carrier",
+          "weighted_toll": 31.372,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.485,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482087,
+          "opponent_name": "K. Guhle",
+          "weighted_toll": 26.256,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.886,
+            "pursuit": 0.0,
+            "zone_time": 3.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476479,
+          "opponent_name": "P. Danault",
+          "weighted_toll": 21.791,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.529,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1702,6 +1702,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020126,
+      "date": "2026-10-17",
+      "fii_per_60": 764.811,
+      "total_weighted_toll": 1280.421,
+      "total_shared_toi_min": 100.45,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484170,
+          "opponent_name": "J. Fowler",
+          "weighted_toll": 1156.7,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1146.0,
+            "pursuit": 0.0,
+            "zone_time": 10.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482087,
+          "opponent_name": "K. Guhle",
+          "weighted_toll": 18.087,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.714,
+            "pursuit": 0.0,
+            "zone_time": 7.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481618,
+          "opponent_name": "A. Newhook",
+          "weighted_toll": 16.334,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.289,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478851,
+          "opponent_name": "A. Carrier",
+          "weighted_toll": 14.902,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.662,
+            "pursuit": 0.0,
+            "zone_time": 6.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476981,
+          "opponent_name": "J. Anderson",
+          "weighted_toll": 14.072,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.556,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

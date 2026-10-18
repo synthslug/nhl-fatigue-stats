@@ -814,6 +814,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020124,
+      "date": "2026-10-17",
+      "fii_per_60": 1010.917,
+      "total_weighted_toll": 972.165,
+      "total_shared_toi_min": 57.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478916,
+          "opponent_name": "J. Daccord",
+          "weighted_toll": 883.767,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 876.667,
+            "pursuit": 0.0,
+            "zone_time": 5.1,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482259,
+          "opponent_name": "B. McMann",
+          "weighted_toll": 22.581,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 38.462,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8479372,
+          "opponent_name": "J. Mahura",
+          "weighted_toll": 14.445,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.194,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477955,
+          "opponent_name": "J. McCann",
+          "weighted_toll": 9.524,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.0,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482866,
+          "opponent_name": "V. Ottavainen",
+          "weighted_toll": 5.333,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 4.956,
+            "pursuit": 0.0,
+            "zone_time": 2.35,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

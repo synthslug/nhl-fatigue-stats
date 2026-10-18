@@ -1036,6 +1036,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020133,
+      "date": "2026-10-17",
+      "fii_per_60": 36.991,
+      "total_weighted_toll": 43.773,
+      "total_shared_toi_min": 71.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484386,
+          "opponent_name": "D. Simashev",
+          "weighted_toll": 6.68,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 4.476,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8477346,
+          "opponent_name": "M. Weegar",
+          "weighted_toll": 4.363,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 2.792,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8479977,
+          "opponent_name": "K. Yamamoto",
+          "weighted_toll": 3.945,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.867,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479343,
+          "opponent_name": "C. Keller",
+          "weighted_toll": 3.489,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.982,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8478507,
+          "opponent_name": "J. Marino",
+          "weighted_toll": 3.351,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.681,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
