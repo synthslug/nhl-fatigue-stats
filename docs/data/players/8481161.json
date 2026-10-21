@@ -1258,6 +1258,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020145,
+      "date": "2026-10-20",
+      "fii_per_60": 100.985,
+      "total_weighted_toll": 141.715,
+      "total_shared_toi_min": 84.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479442,
+          "opponent_name": "T. Stecher",
+          "weighted_toll": 25.182,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.861,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486067,
+          "opponent_name": "G. McKenna",
+          "weighted_toll": 12.741,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 34.833,
+            "pursuit": 0.0,
+            "zone_time": 1.9,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8483546,
+          "opponent_name": "M. Rifai",
+          "weighted_toll": 12.58,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.795,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477939,
+          "opponent_name": "W. Nylander",
+          "weighted_toll": 10.539,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.444,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8480893,
+          "opponent_name": "K. Marchenko",
+          "weighted_toll": 10.222,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.768,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }

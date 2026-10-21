@@ -592,6 +592,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020135,
+      "date": "2026-10-18",
+      "fii_per_60": 43.599,
+      "total_weighted_toll": 208.768,
+      "total_shared_toi_min": 287.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476463,
+          "opponent_name": "J. Brodin",
+          "weighted_toll": 51.545,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 49.76,
+            "pursuit": 0.0,
+            "zone_time": 6.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474567,
+          "opponent_name": "Z. Bogosian",
+          "weighted_toll": 42.182,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 52.409,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482094,
+          "opponent_name": "D. Hunt",
+          "weighted_toll": 32.466,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 42.368,
+            "pursuit": 0.0,
+            "zone_time": 4.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483766,
+          "opponent_name": "D. Spacek",
+          "weighted_toll": 20.525,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 34.812,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482661,
+          "opponent_name": "J. Wallstedt",
+          "weighted_toll": 16.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 14.55,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020145,
+      "date": "2026-10-20",
+      "fii_per_60": 67.123,
+      "total_weighted_toll": 142.749,
+      "total_shared_toi_min": 127.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479442,
+          "opponent_name": "T. Stecher",
+          "weighted_toll": 20.618,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.683,
+            "pursuit": 0.0,
+            "zone_time": 7.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476932,
+          "opponent_name": "A. Stolarz",
+          "weighted_toll": 17.4,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 15.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476853,
+          "opponent_name": "M. Rielly",
+          "weighted_toll": 16.353,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.238,
+            "pursuit": 0.0,
+            "zone_time": 6.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483546,
+          "opponent_name": "M. Rifai",
+          "weighted_toll": 13.171,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.053,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477939,
+          "opponent_name": "W. Nylander",
+          "weighted_toll": 12.628,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.286,
+            "pursuit": 0.0,
+            "zone_time": 4.1,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }

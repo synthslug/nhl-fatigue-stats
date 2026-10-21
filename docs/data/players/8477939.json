@@ -1258,6 +1258,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020145,
+      "date": "2026-10-20",
+      "fii_per_60": 99.521,
+      "total_weighted_toll": 117.932,
+      "total_shared_toi_min": 71.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476923,
+          "opponent_name": "D. Severson",
+          "weighted_toll": 18.322,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.615,
+            "pursuit": 0.0,
+            "zone_time": 3.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481161,
+          "opponent_name": "J. Christiansen",
+          "weighted_toll": 17.62,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.833,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479671,
+          "opponent_name": "M. Olivier",
+          "weighted_toll": 11.839,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.919,
+            "pursuit": 0.0,
+            "zone_time": 4.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475745,
+          "opponent_name": "C. Coyle",
+          "weighted_toll": 10.353,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.657,
+            "pursuit": 0.0,
+            "zone_time": 3.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479066,
+          "opponent_name": "R. Lomberg",
+          "weighted_toll": 7.8,
+          "role_weight": 0.239,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 32.571,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
