@@ -1332,6 +1332,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020156,
+      "date": "2026-10-22",
+      "fii_per_60": 606.103,
+      "total_weighted_toll": 940.302,
+      "total_shared_toi_min": 93.08,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481035,
+          "opponent_name": "S. Ersson",
+          "weighted_toll": 824.6,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 819.75,
+            "pursuit": 0.0,
+            "zone_time": 4.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480208,
+          "opponent_name": "D. Batherson",
+          "weighted_toll": 15.11,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.455,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482105,
+          "opponent_name": "J. Sanderson",
+          "weighted_toll": 15.004,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.506,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482116,
+          "opponent_name": "T. St\u00fctzle",
+          "weighted_toll": 13.609,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.846,
+            "pursuit": 0.0,
+            "zone_time": 1.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481528,
+          "opponent_name": "D. Cozens",
+          "weighted_toll": 13.551,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.521,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

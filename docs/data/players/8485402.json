@@ -1628,6 +1628,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020156,
+      "date": "2026-10-22",
+      "fii_per_60": 793.631,
+      "total_weighted_toll": 926.564,
+      "total_shared_toi_min": 70.05,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481035,
+          "opponent_name": "S. Ersson",
+          "weighted_toll": 825.4,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 819.75,
+            "pursuit": 0.0,
+            "zone_time": 5.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482105,
+          "opponent_name": "J. Sanderson",
+          "weighted_toll": 22.981,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.357,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481606,
+          "opponent_name": "J. Spence",
+          "weighted_toll": 12.027,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.333,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482095,
+          "opponent_name": "T. Kleven",
+          "weighted_toll": 8.922,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.167,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482116,
+          "opponent_name": "T. St\u00fctzle",
+          "weighted_toll": 7.652,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.154,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

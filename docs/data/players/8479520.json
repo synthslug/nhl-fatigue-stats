@@ -2146,6 +2146,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020155,
+      "date": "2026-10-22",
+      "fii_per_60": 128.695,
+      "total_weighted_toll": 169.877,
+      "total_shared_toi_min": 79.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 29.259,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 26.729,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479323,
+          "opponent_name": "A. Fox",
+          "weighted_toll": 27.999,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.0,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 20.643,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.292,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476459,
+          "opponent_name": "M. Zibanejad",
+          "weighted_toll": 16.664,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.497,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482109,
+          "opponent_name": "A. Lafreni\u00e8re",
+          "weighted_toll": 12.158,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.869,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

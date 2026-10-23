@@ -444,6 +444,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020137,
+      "date": "2026-10-19",
+      "fii_per_60": 18.562,
+      "total_weighted_toll": 86.006,
+      "total_shared_toi_min": 278.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482193,
+          "opponent_name": "D. Garand",
+          "weighted_toll": 22.05,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 22.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 7.512,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 6.486,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482073,
+          "opponent_name": "B. Schneider",
+          "weighted_toll": 6.443,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479323,
+          "opponent_name": "A. Fox",
+          "weighted_toll": 6.066,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.35,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020157,
+      "date": "2026-10-22",
+      "fii_per_60": 21.739,
+      "total_weighted_toll": 113.367,
+      "total_shared_toi_min": 312.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482076,
+          "opponent_name": "N. Daws",
+          "weighted_toll": 20.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 20.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478414,
+          "opponent_name": "T. Meier",
+          "weighted_toll": 19.079,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.778,
+            "pursuit": 0.0,
+            "zone_time": 6.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482146,
+          "opponent_name": "L. Evangelista",
+          "weighted_toll": 14.648,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.222,
+            "pursuit": 0.0,
+            "zone_time": 6.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482684,
+          "opponent_name": "L. Hughes",
+          "weighted_toll": 8.072,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476462,
+          "opponent_name": "D. Hamilton",
+          "weighted_toll": 6.322,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.7,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

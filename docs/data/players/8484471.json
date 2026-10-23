@@ -1924,6 +1924,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020149,
+      "date": "2026-10-20",
+      "fii_per_60": 68.962,
+      "total_weighted_toll": 117.235,
+      "total_shared_toi_min": 102.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477919,
+          "opponent_name": "F. Gaudreau",
+          "weighted_toll": 16.368,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.75,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476457,
+          "opponent_name": "A. Larsson",
+          "weighted_toll": 14.478,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.583,
+            "pursuit": 0.0,
+            "zone_time": 3.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478407,
+          "opponent_name": "V. Dunn",
+          "weighted_toll": 13.198,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.944,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482665,
+          "opponent_name": "M. Beniers",
+          "weighted_toll": 10.052,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.385,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475831,
+          "opponent_name": "P. Grubauer",
+          "weighted_toll": 9.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020165,
+      "date": "2026-10-22",
+      "fii_per_60": 156.226,
+      "total_weighted_toll": 179.139,
+      "total_shared_toi_min": 68.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483476,
+          "opponent_name": "J. Lekkerim\u00e4ki",
+          "weighted_toll": 28.052,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 41.188,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478498,
+          "opponent_name": "J. DeBrusk",
+          "weighted_toll": 20.017,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.443,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479425,
+          "opponent_name": "F. Hronek",
+          "weighted_toll": 19.693,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.615,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483678,
+          "opponent_name": "E. Pettersson",
+          "weighted_toll": 17.967,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.559,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480012,
+          "opponent_name": "E. Pettersson",
+          "weighted_toll": 14.245,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.75,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

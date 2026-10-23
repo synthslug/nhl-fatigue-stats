@@ -1036,6 +1036,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020146,
+      "date": "2026-10-20",
+      "fii_per_60": 19.44,
+      "total_weighted_toll": 83.785,
+      "total_shared_toi_min": 258.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479973,
+          "opponent_name": "S. Skinner",
+          "weighted_toll": 21.25,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 19.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8480145,
+          "opponent_name": "N. Pionk",
+          "weighted_toll": 8.359,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.75,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 7.876,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.65,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476331,
+          "opponent_name": "D. DeMelo",
+          "weighted_toll": 5.589,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477938,
+          "opponent_name": "H. Fleury",
+          "weighted_toll": 5.008,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020160,
+      "date": "2026-10-22",
+      "fii_per_60": 13.635,
+      "total_weighted_toll": 78.876,
+      "total_shared_toi_min": 347.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478499,
+          "opponent_name": "A. Hill",
+          "weighted_toll": 19.5,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 19.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478397,
+          "opponent_name": "R. Andersson",
+          "weighted_toll": 6.199,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478468,
+          "opponent_name": "J. Lauzon",
+          "weighted_toll": 6.072,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475188,
+          "opponent_name": "B. McNabb",
+          "weighted_toll": 5.875,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477447,
+          "opponent_name": "S. Theodore",
+          "weighted_toll": 5.281,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 5.8,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

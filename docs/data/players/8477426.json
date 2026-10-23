@@ -1998,6 +1998,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020155,
+      "date": "2026-10-22",
+      "fii_per_60": 86.518,
+      "total_weighted_toll": 141.169,
+      "total_shared_toi_min": 97.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 16.759,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 17.461,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479323,
+          "opponent_name": "A. Fox",
+          "weighted_toll": 16.655,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.542,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481604,
+          "opponent_name": "P. Dorofeyev",
+          "weighted_toll": 16.293,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.583,
+            "pursuit": 0.0,
+            "zone_time": 1.9,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 14.802,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.395,
+            "pursuit": 0.0,
+            "zone_time": 4.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476468,
+          "opponent_name": "J. Miller",
+          "weighted_toll": 11.38,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.25,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1184,6 +1184,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020157,
+      "date": "2026-10-22",
+      "fii_per_60": 93.364,
+      "total_weighted_toll": 147.36,
+      "total_shared_toi_min": 94.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482146,
+          "opponent_name": "L. Evangelista",
+          "weighted_toll": 21.556,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.615,
+            "pursuit": 0.0,
+            "zone_time": 3.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482684,
+          "opponent_name": "L. Hughes",
+          "weighted_toll": 19.385,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.243,
+            "pursuit": 0.0,
+            "zone_time": 5.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477488,
+          "opponent_name": "B. Pesce",
+          "weighted_toll": 15.889,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.4,
+            "pursuit": 0.0,
+            "zone_time": 5.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480192,
+          "opponent_name": "J. Kovacevic",
+          "weighted_toll": 10.291,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.227,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476462,
+          "opponent_name": "D. Hamilton",
+          "weighted_toll": 8.95,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.851,
+            "pursuit": 0.0,
+            "zone_time": 3.05,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1702,6 +1702,228 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020135,
+      "date": "2026-10-18",
+      "fii_per_60": 827.048,
+      "total_weighted_toll": 1346.71,
+      "total_shared_toi_min": 97.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475660,
+          "opponent_name": "C. Talbot",
+          "weighted_toll": 1102.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1096.0,
+            "pursuit": 0.0,
+            "zone_time": 6.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478460,
+          "opponent_name": "Z. Werenski",
+          "weighted_toll": 48.119,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 47.422,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475745,
+          "opponent_name": "C. Coyle",
+          "weighted_toll": 37.267,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 46.891,
+            "pursuit": 0.0,
+            "zone_time": 4.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476923,
+          "opponent_name": "D. Severson",
+          "weighted_toll": 27.236,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.362,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479671,
+          "opponent_name": "M. Olivier",
+          "weighted_toll": 21.172,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.722,
+            "pursuit": 0.0,
+            "zone_time": 3.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020148,
+      "date": "2026-10-20",
+      "fii_per_60": 46.303,
+      "total_weighted_toll": 70.843,
+      "total_shared_toi_min": 91.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477934,
+          "opponent_name": "L. Draisaitl",
+          "weighted_toll": 13.584,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.889,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480803,
+          "opponent_name": "E. Bouchard",
+          "weighted_toll": 11.904,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.861,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478402,
+          "opponent_name": "C. McDavid",
+          "weighted_toll": 9.827,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.942,
+            "pursuit": 0.0,
+            "zone_time": 0.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475786,
+          "opponent_name": "Z. Hyman",
+          "weighted_toll": 9.435,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.903,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475218,
+          "opponent_name": "M. Ekholm",
+          "weighted_toll": 5.749,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.471,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020162,
+      "date": "2026-10-22",
+      "fii_per_60": 44.268,
+      "total_weighted_toll": 65.05,
+      "total_shared_toi_min": 88.17,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484154,
+          "opponent_name": "J. Castagna",
+          "weighted_toll": 9.573,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.485,
+            "pursuit": 0.0,
+            "zone_time": 0.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480727,
+          "opponent_name": "Z. Whitecloud",
+          "weighted_toll": 9.391,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.647,
+            "pursuit": 0.0,
+            "zone_time": 3.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480860,
+          "opponent_name": "K. Bahl",
+          "weighted_toll": 6.016,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 4.448,
+            "pursuit": 0.0,
+            "zone_time": 1.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482445,
+          "opponent_name": "D. Cooley",
+          "weighted_toll": 4.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483495,
+          "opponent_name": "S. Nemec",
+          "weighted_toll": 3.972,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 2.513,
+            "pursuit": 0.0,
+            "zone_time": 0.85,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

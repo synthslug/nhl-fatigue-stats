@@ -666,6 +666,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020147,
+      "date": "2026-10-20",
+      "fii_per_60": 1348.727,
+      "total_weighted_toll": 1227.716,
+      "total_shared_toi_min": 54.62,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479979,
+          "opponent_name": "J. Oettinger",
+          "weighted_toll": 1100.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1098.0,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483425,
+          "opponent_name": "L. Bichsel",
+          "weighted_toll": 20.496,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.369,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480036,
+          "opponent_name": "M. Heiskanen",
+          "weighted_toll": 20.406,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 19.812,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484938,
+          "opponent_name": "A. Hyry",
+          "weighted_toll": 17.349,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.843,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484829,
+          "opponent_name": "J. Hryckowian",
+          "weighted_toll": 12.198,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.442,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020154,
+      "date": "2026-10-22",
+      "fii_per_60": 106.486,
+      "total_weighted_toll": 130.445,
+      "total_shared_toi_min": 73.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480835,
+          "opponent_name": "J. Drury",
+          "weighted_toll": 23.157,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 33.566,
+            "pursuit": 0.0,
+            "zone_time": 0.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476887,
+          "opponent_name": "F. Forsberg",
+          "weighted_toll": 18.408,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.762,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481726,
+          "opponent_name": "A. Edstrom",
+          "weighted_toll": 15.485,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.071,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477021,
+          "opponent_name": "A. Kerfoot",
+          "weighted_toll": 9.531,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.643,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475158,
+          "opponent_name": "R. O'Reilly",
+          "weighted_toll": 8.033,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.536,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

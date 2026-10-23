@@ -1332,6 +1332,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020155,
+      "date": "2026-10-22",
+      "fii_per_60": 72.274,
+      "total_weighted_toll": 126.721,
+      "total_shared_toi_min": 105.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 16.63,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.208,
+            "pursuit": 0.0,
+            "zone_time": 5.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480434,
+          "opponent_name": "S. Durzi",
+          "weighted_toll": 14.074,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.69,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481604,
+          "opponent_name": "P. Dorofeyev",
+          "weighted_toll": 14.072,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.164,
+            "pursuit": 0.0,
+            "zone_time": 2.3,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482193,
+          "opponent_name": "D. Garand",
+          "weighted_toll": 11.85,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.85,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 11.679,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.325,
+            "pursuit": 0.0,
+            "zone_time": 4.9,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
