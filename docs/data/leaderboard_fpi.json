@@ -176,28 +176,12 @@
     "games": 28
   },
   {
-    "player_id": 8481519,
-    "name": "S. Knight",
-    "team": "CHI",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-17",
-    "games": 19
-  },
-  {
     "player_id": 8479979,
     "name": "J. Oettinger",
     "team": "DAL",
     "fpi_pct": 100.0,
     "as_of_date": "2026-10-22",
     "games": 18
-  },
-  {
-    "player_id": 8482768,
-    "name": "F. Svechkov",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 24
   },
   {
     "player_id": 8477992,
@@ -416,60 +400,12 @@
     "games": 22
   },
   {
-    "player_id": 8475754,
-    "name": "B. Nelson",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 26
-  },
-  {
-    "player_id": 8477476,
-    "name": "A. Lehkonen",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 26
-  },
-  {
-    "player_id": 8477492,
-    "name": "N. MacKinnon",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 25
-  },
-  {
-    "player_id": 8478038,
-    "name": "D. Toews",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 13
-  },
-  {
     "player_id": 8479398,
     "name": "S. Girard",
     "team": "VGK",
     "fpi_pct": 100.0,
     "as_of_date": "2026-10-17",
     "games": 25
-  },
-  {
-    "player_id": 8482953,
-    "name": "T. Makar",
-    "team": "UTA",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-09-26",
-    "games": 11
-  },
-  {
-    "player_id": 8475172,
-    "name": "N. Kadri",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 26
   },
   {
     "player_id": 8481556,
@@ -648,14 +584,6 @@
     "games": 12
   },
   {
-    "player_id": 8475768,
-    "name": "J. Schwartz",
-    "team": "NJD",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-20",
-    "games": 24
-  },
-  {
     "player_id": 8480871,
     "name": "A. Boqvist",
     "team": "PHI",
@@ -718,14 +646,6 @@
     "fpi_pct": 100.0,
     "as_of_date": "2026-10-22",
     "games": 20
-  },
-  {
-    "player_id": 8478406,
-    "name": "M. Blackwood",
-    "team": "PHI",
-    "fpi_pct": 100.0,
-    "as_of_date": "2026-10-19",
-    "games": 14
   },
   {
     "player_id": 8480891,
@@ -798,5 +718,85 @@
     "fpi_pct": 100.0,
     "as_of_date": "2026-10-22",
     "games": 10
+  },
+  {
+    "player_id": 8483448,
+    "name": "I. George",
+    "team": "NYI",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-26",
+    "games": 6
+  },
+  {
+    "player_id": 8481592,
+    "name": "J. Pelletier",
+    "team": "FLA",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-26",
+    "games": 4
+  },
+  {
+    "player_id": 8484901,
+    "name": "J. Quillan",
+    "team": "OTT",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-23",
+    "games": 3
+  },
+  {
+    "player_id": 8482168,
+    "name": "M. Groshev",
+    "team": "FLA",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-26",
+    "games": 3
+  },
+  {
+    "player_id": 8482673,
+    "name": "X. Bourgault",
+    "team": "MTL",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-26",
+    "games": 3
+  },
+  {
+    "player_id": 8476979,
+    "name": "E. Gustafsson",
+    "team": "NYI",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-10-22",
+    "games": 8
+  },
+  {
+    "player_id": 8482121,
+    "name": "D. Peterson",
+    "team": "NSH",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-10-17",
+    "games": 6
+  },
+  {
+    "player_id": 8483705,
+    "name": "A. Koromyslov",
+    "team": "DAL",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-21",
+    "games": 2
+  },
+  {
+    "player_id": 8484151,
+    "name": "Q. Burns",
+    "team": "DAL",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-21",
+    "games": 2
+  },
+  {
+    "player_id": 8484312,
+    "name": "G. Romanov",
+    "team": "DAL",
+    "fpi_pct": 100.0,
+    "as_of_date": "2026-09-21",
+    "games": 2
   }
 ]
