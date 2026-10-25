@@ -814,6 +814,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020170,
+      "date": "2026-10-24",
+      "fii_per_60": 1317.943,
+      "total_weighted_toll": 918.167,
+      "total_shared_toi_min": 41.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477968,
+          "opponent_name": "A. Nedeljkovic",
+          "weighted_toll": 845.05,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 844.5,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484801,
+          "opponent_name": "M. Celebrini",
+          "weighted_toll": 15.388,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.75,
+            "pursuit": 0.0,
+            "zone_time": 0.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484806,
+          "opponent_name": "S. Dickinson",
+          "weighted_toll": 9.243,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.456,
+            "pursuit": 0.0,
+            "zone_time": 0.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482700,
+          "opponent_name": "N. Allan",
+          "weighted_toll": 9.181,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.941,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478975,
+          "opponent_name": "M. Marchment",
+          "weighted_toll": 9.144,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.312,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

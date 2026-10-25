@@ -740,6 +740,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020173,
+      "date": "2026-10-24",
+      "fii_per_60": 1443.38,
+      "total_weighted_toll": 1044.045,
+      "total_shared_toi_min": 43.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480045,
+          "opponent_name": "U. Luukkonen",
+          "weighted_toll": 979.6,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 978.0,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482671,
+          "opponent_name": "O. Power",
+          "weighted_toll": 20.499,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.859,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482803,
+          "opponent_name": "O. Zellweger",
+          "weighted_toll": 8.181,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.364,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480802,
+          "opponent_name": "R. McLeod",
+          "weighted_toll": 7.493,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.909,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484145,
+          "opponent_name": "Z. Benson",
+          "weighted_toll": 6.638,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.551,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

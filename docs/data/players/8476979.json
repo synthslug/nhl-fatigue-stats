@@ -592,6 +592,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020169,
+      "date": "2026-10-24",
+      "fii_per_60": 50.416,
+      "total_weighted_toll": 95.035,
+      "total_shared_toi_min": 113.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478399,
+          "opponent_name": "J. Siegenthaler",
+          "weighted_toll": 20.139,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.778,
+            "pursuit": 0.0,
+            "zone_time": 0.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476462,
+          "opponent_name": "D. Hamilton",
+          "weighted_toll": 14.029,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.321,
+            "pursuit": 0.0,
+            "zone_time": 0.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481721,
+          "opponent_name": "A. Gritsyuk",
+          "weighted_toll": 9.234,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.381,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480192,
+          "opponent_name": "J. Kovacevic",
+          "weighted_toll": 8.615,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.417,
+            "pursuit": 0.0,
+            "zone_time": 4.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477488,
+          "opponent_name": "B. Pesce",
+          "weighted_toll": 8.346,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.966,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

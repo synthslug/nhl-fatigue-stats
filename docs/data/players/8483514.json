@@ -1,0 +1,227 @@
+{
+  "player_id": 8483514,
+  "fii_games": [
+    {
+      "game_id": 2026010001,
+      "date": "2026-09-19",
+      "fii_per_60": 133.545,
+      "total_weighted_toll": 143.783,
+      "total_shared_toi_min": 64.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483705,
+          "opponent_name": "A. Koromyslov",
+          "weighted_toll": 21.893,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.295,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484188,
+          "opponent_name": "T. Lindstein",
+          "weighted_toll": 21.309,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.457,
+            "pursuit": 0.0,
+            "zone_time": 3.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483463,
+          "opponent_name": "A. Kaskimaki",
+          "weighted_toll": 20.707,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.667,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480459,
+          "opponent_name": "P. Suter",
+          "weighted_toll": 13.438,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 13.417,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484230,
+          "opponent_name": "O. Stenberg",
+          "weighted_toll": 8.355,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.6,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010021,
+      "date": "2026-09-21",
+      "fii_per_60": 53.673,
+      "total_weighted_toll": 64.229,
+      "total_shared_toi_min": 71.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482733,
+          "opponent_name": "L. Mailloux",
+          "weighted_toll": 11.322,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.834,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482121,
+          "opponent_name": "D. Peterson",
+          "weighted_toll": 9.74,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.611,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482077,
+          "opponent_name": "D. Holloway",
+          "weighted_toll": 9.52,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.61,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476897,
+          "opponent_name": "O. Sundqvist",
+          "weighted_toll": 6.107,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.088,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483705,
+          "opponent_name": "A. Koromyslov",
+          "weighted_toll": 5.735,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.4,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010034,
+      "date": "2026-09-23",
+      "fii_per_60": 192.336,
+      "total_weighted_toll": 168.935,
+      "total_shared_toi_min": 52.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479580,
+          "opponent_name": "D. Gambrell",
+          "weighted_toll": 33.847,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 43.6,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481477,
+          "opponent_name": "N. Sturm",
+          "weighted_toll": 32.433,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 44.333,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483766,
+          "opponent_name": "D. Spacek",
+          "weighted_toll": 18.518,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.585,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482094,
+          "opponent_name": "D. Hunt",
+          "weighted_toll": 15.645,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.783,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484231,
+          "opponent_name": "C. Stramel",
+          "weighted_toll": 12.312,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.02,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

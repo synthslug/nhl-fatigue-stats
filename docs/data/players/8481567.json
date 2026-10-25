@@ -1,0 +1,153 @@
+{
+  "player_id": 8481567,
+  "fii_games": [
+    {
+      "game_id": 2026010003,
+      "date": "2026-09-19",
+      "fii_per_60": 305.254,
+      "total_weighted_toll": 574.81,
+      "total_shared_toi_min": 112.98,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477465,
+          "opponent_name": "T. Jarry",
+          "weighted_toll": 501.117,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 497.667,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479388,
+          "opponent_name": "R. Stillman",
+          "weighted_toll": 14.924,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.333,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478854,
+          "opponent_name": "R. Shea",
+          "weighted_toll": 10.08,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.771,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480834,
+          "opponent_name": "T. Emberson",
+          "weighted_toll": 6.246,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.214,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477384,
+          "opponent_name": "J. Brown",
+          "weighted_toll": 6.181,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.623,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010015,
+      "date": "2026-09-21",
+      "fii_per_60": 92.865,
+      "total_weighted_toll": 140.691,
+      "total_shared_toi_min": 90.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484258,
+          "opponent_name": "S. Malinski",
+          "weighted_toll": 29.013,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.464,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482768,
+          "opponent_name": "F. Svechkov",
+          "weighted_toll": 17.658,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.886,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8478462,
+          "opponent_name": "N. Roy",
+          "weighted_toll": 14.505,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.417,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8483567,
+          "opponent_name": "G. Merkulov",
+          "weighted_toll": 11.359,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.216,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476967,
+          "opponent_name": "B. Kulak",
+          "weighted_toll": 11.046,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.558,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}

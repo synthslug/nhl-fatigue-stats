@@ -1406,6 +1406,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020179,
+      "date": "2026-10-24",
+      "fii_per_60": 20.326,
+      "total_weighted_toll": 93.705,
+      "total_shared_toi_min": 276.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478916,
+          "opponent_name": "J. Daccord",
+          "weighted_toll": 24.3,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 24.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476457,
+          "opponent_name": "A. Larsson",
+          "weighted_toll": 8.377,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 11.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478407,
+          "opponent_name": "V. Dunn",
+          "weighted_toll": 8.331,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477986,
+          "opponent_name": "B. Montour",
+          "weighted_toll": 6.544,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482665,
+          "opponent_name": "M. Beniers",
+          "weighted_toll": 6.117,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.45,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

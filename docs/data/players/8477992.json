@@ -222,6 +222,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020171,
+      "date": "2026-10-24",
+      "fii_per_60": 18.134,
+      "total_weighted_toll": 85.784,
+      "total_shared_toi_min": 283.83,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482193,
+          "opponent_name": "D. Garand",
+          "weighted_toll": 20.45,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 20.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 9.97,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 10.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479323,
+          "opponent_name": "A. Fox",
+          "weighted_toll": 6.782,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480434,
+          "opponent_name": "S. Durzi",
+          "weighted_toll": 6.288,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482157,
+          "opponent_name": "W. Cuylle",
+          "weighted_toll": 6.147,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.95,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

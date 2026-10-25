@@ -1,0 +1,153 @@
+{
+  "player_id": 8486126,
+  "fii_games": [
+    {
+      "game_id": 2026010001,
+      "date": "2026-09-19",
+      "fii_per_60": 50.09,
+      "total_weighted_toll": 76.804,
+      "total_shared_toi_min": 92.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484230,
+          "opponent_name": "O. Stenberg",
+          "weighted_toll": 12.882,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.464,
+            "pursuit": 0.0,
+            "zone_time": 3.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486033,
+          "opponent_name": "M. Dagenais",
+          "weighted_toll": 11.003,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.857,
+            "pursuit": 0.0,
+            "zone_time": 3.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484188,
+          "opponent_name": "T. Lindstein",
+          "weighted_toll": 7.714,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.175,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480459,
+          "opponent_name": "P. Suter",
+          "weighted_toll": 7.3,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.791,
+            "pursuit": 0.0,
+            "zone_time": 3.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484810,
+          "opponent_name": "L. Fischer",
+          "weighted_toll": 6.091,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.922,
+            "pursuit": 0.0,
+            "zone_time": 2.1,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010021,
+      "date": "2026-09-21",
+      "fii_per_60": 106.61,
+      "total_weighted_toll": 147.299,
+      "total_shared_toi_min": 82.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480023,
+          "opponent_name": "R. Thomas",
+          "weighted_toll": 20.635,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.333,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483516,
+          "opponent_name": "J. Snuggerud",
+          "weighted_toll": 19.117,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.125,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481598,
+          "opponent_name": "P. Broberg",
+          "weighted_toll": 15.919,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.464,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481013,
+          "opponent_name": "J. Berggren",
+          "weighted_toll": 15.066,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 30.929,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482733,
+          "opponent_name": "L. Mailloux",
+          "weighted_toll": 14.356,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.867,
+            "pursuit": 0.0,
+            "zone_time": 1.9,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
