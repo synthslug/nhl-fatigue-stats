@@ -1702,6 +1702,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020192,
+      "date": "2026-10-27",
+      "fii_per_60": 494.517,
+      "total_weighted_toll": 880.241,
+      "total_shared_toi_min": 106.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8473575,
+          "opponent_name": "S. Varlamov",
+          "weighted_toll": 725.0,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 719.6,
+            "pursuit": 0.0,
+            "zone_time": 5.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481601,
+          "opponent_name": "S. Holmstrom",
+          "weighted_toll": 24.29,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.306,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485366,
+          "opponent_name": "M. Schaefer",
+          "weighted_toll": 24.211,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.595,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477500,
+          "opponent_name": "B. Horvat",
+          "weighted_toll": 20.224,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.612,
+            "pursuit": 0.0,
+            "zone_time": 2.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482476,
+          "opponent_name": "E. Heineman",
+          "weighted_toll": 11.668,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.971,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

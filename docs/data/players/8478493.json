@@ -1702,6 +1702,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020195,
+      "date": "2026-10-27",
+      "fii_per_60": 113.123,
+      "total_weighted_toll": 142.723,
+      "total_shared_toi_min": 75.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482699,
+          "opponent_name": "D. Guenther",
+          "weighted_toll": 22.976,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.583,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477346,
+          "opponent_name": "M. Weegar",
+          "weighted_toll": 20.633,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.961,
+            "pursuit": 0.0,
+            "zone_time": 5.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479410,
+          "opponent_name": "M. Sergachev",
+          "weighted_toll": 14.257,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.975,
+            "pursuit": 0.0,
+            "zone_time": 5.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483431,
+          "opponent_name": "L. Cooley",
+          "weighted_toll": 11.201,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.429,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477220,
+          "opponent_name": "N. Schmidt",
+          "weighted_toll": 10.765,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.373,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

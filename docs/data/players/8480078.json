@@ -740,6 +740,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020184,
+      "date": "2026-10-25",
+      "fii_per_60": 183.91,
+      "total_weighted_toll": 208.431,
+      "total_shared_toi_min": 68.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480800,
+          "opponent_name": "Q. Hughes",
+          "weighted_toll": 42.207,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 43.383,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478493,
+          "opponent_name": "J. Eriksson Ek",
+          "weighted_toll": 21.226,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.653,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481557,
+          "opponent_name": "M. Boldy",
+          "weighted_toll": 19.082,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.357,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474567,
+          "opponent_name": "Z. Bogosian",
+          "weighted_toll": 19.08,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.714,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485702,
+          "opponent_name": "M. Shabanov",
+          "weighted_toll": 16.965,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.0,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020197,
+      "date": "2026-10-27",
+      "fii_per_60": 75.086,
+      "total_weighted_toll": 113.881,
+      "total_shared_toi_min": 91.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8485512,
+          "opponent_name": "T. Washe",
+          "weighted_toll": 13.831,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.195,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483482,
+          "opponent_name": "T. Luneau",
+          "weighted_toll": 12.865,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.571,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484262,
+          "opponent_name": "T. Mitchell",
+          "weighted_toll": 12.163,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.509,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482731,
+          "opponent_name": "T. Hinds",
+          "weighted_toll": 10.239,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.727,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480843,
+          "opponent_name": "L. Dostal",
+          "weighted_toll": 9.0,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.0,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1110,6 +1110,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020195,
+      "date": "2026-10-27",
+      "fii_per_60": 1079.031,
+      "total_weighted_toll": 1273.257,
+      "total_shared_toi_min": 70.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478872,
+          "opponent_name": "K. Vejmelka",
+          "weighted_toll": 1141.767,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1136.667,
+            "pursuit": 0.0,
+            "zone_time": 5.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479343,
+          "opponent_name": "C. Keller",
+          "weighted_toll": 23.483,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 22.424,
+            "pursuit": 0.0,
+            "zone_time": 3.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483431,
+          "opponent_name": "L. Cooley",
+          "weighted_toll": 20.21,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.233,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479410,
+          "opponent_name": "M. Sergachev",
+          "weighted_toll": 17.664,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.091,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477951,
+          "opponent_name": "N. Schmaltz",
+          "weighted_toll": 16.894,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.01,
+            "pursuit": 0.0,
+            "zone_time": 2.3,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

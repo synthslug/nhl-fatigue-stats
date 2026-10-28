@@ -1406,6 +1406,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020192,
+      "date": "2026-10-27",
+      "fii_per_60": 723.605,
+      "total_weighted_toll": 890.034,
+      "total_shared_toi_min": 73.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8473575,
+          "opponent_name": "S. Varlamov",
+          "weighted_toll": 806.5,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 801.25,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479378,
+          "opponent_name": "L. Stanley",
+          "weighted_toll": 18.903,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.0,
+            "pursuit": 0.0,
+            "zone_time": 2.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475170,
+          "opponent_name": "B. Schenn",
+          "weighted_toll": 13.078,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.076,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476917,
+          "opponent_name": "A. Pelech",
+          "weighted_toll": 7.406,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.483,
+            "pursuit": 0.0,
+            "zone_time": 3.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476429,
+          "opponent_name": "S. Mayfield",
+          "weighted_toll": 7.214,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.833,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

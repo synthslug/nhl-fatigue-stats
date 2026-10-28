@@ -740,6 +740,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020190,
+      "date": "2026-10-27",
+      "fii_per_60": 55.214,
+      "total_weighted_toll": 92.207,
+      "total_shared_toi_min": 100.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482176,
+          "opponent_name": "W. Kaiser",
+          "weighted_toll": 19.047,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.6,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477479,
+          "opponent_name": "T. Bertuzzi",
+          "weighted_toll": 13.808,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.286,
+            "pursuit": 0.0,
+            "zone_time": 3.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481519,
+          "opponent_name": "S. Knight",
+          "weighted_toll": 9.7,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481568,
+          "opponent_name": "A. Vlasic",
+          "weighted_toll": 8.116,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1.263,
+            "pursuit": 0.0,
+            "zone_time": 7.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484144,
+          "opponent_name": "C. Bedard",
+          "weighted_toll": 7.931,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.766,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

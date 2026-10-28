@@ -1184,6 +1184,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020198,
+      "date": "2026-10-27",
+      "fii_per_60": 1200.451,
+      "total_weighted_toll": 1192.448,
+      "total_shared_toi_min": 59.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482137,
+          "opponent_name": "Y. Askarov",
+          "weighted_toll": 1119.717,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1113.667,
+            "pursuit": 0.0,
+            "zone_time": 6.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477498,
+          "opponent_name": "D. Nurse",
+          "weighted_toll": 22.213,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.756,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482859,
+          "opponent_name": "Z. Ostapchuk",
+          "weighted_toll": 10.218,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 34.303,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484227,
+          "opponent_name": "W. Smith",
+          "weighted_toll": 8.949,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.136,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478975,
+          "opponent_name": "M. Marchment",
+          "weighted_toll": 5.485,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.0,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

@@ -1258,6 +1258,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020191,
+      "date": "2026-10-27",
+      "fii_per_60": 524.142,
+      "total_weighted_toll": 913.754,
+      "total_shared_toi_min": 104.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476412,
+          "opponent_name": "J. Binnington",
+          "weighted_toll": 812.4,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 802.75,
+            "pursuit": 0.0,
+            "zone_time": 7.65,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8480023,
+          "opponent_name": "R. Thomas",
+          "weighted_toll": 12.906,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.625,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482077,
+          "opponent_name": "D. Holloway",
+          "weighted_toll": 11.238,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.661,
+            "pursuit": 0.0,
+            "zone_time": 2.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482745,
+          "opponent_name": "M. McTavish",
+          "weighted_toll": 10.587,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.015,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484790,
+          "opponent_name": "A. Jiricek",
+          "weighted_toll": 10.252,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.035,
+            "pursuit": 0.0,
+            "zone_time": 4.15,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

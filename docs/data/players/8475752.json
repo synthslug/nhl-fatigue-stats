@@ -1110,6 +1110,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020195,
+      "date": "2026-10-27",
+      "fii_per_60": 1798.496,
+      "total_weighted_toll": 1207.99,
+      "total_shared_toi_min": 40.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478872,
+          "opponent_name": "K. Vejmelka",
+          "weighted_toll": 1140.117,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1136.667,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479369,
+          "opponent_name": "A. Peeke",
+          "weighted_toll": 13.116,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.878,
+            "pursuit": 0.0,
+            "zone_time": 3.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477346,
+          "opponent_name": "M. Weegar",
+          "weighted_toll": 11.113,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.205,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478831,
+          "opponent_name": "K. Stenlund",
+          "weighted_toll": 9.631,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.017,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477070,
+          "opponent_name": "L. O'Brien",
+          "weighted_toll": 8.062,
+          "role_weight": 0.195,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 40.2,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
