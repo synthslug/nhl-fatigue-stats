@@ -1554,6 +1554,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020200,
+      "date": "2026-10-28",
+      "fii_per_60": 84.125,
+      "total_weighted_toll": 128.712,
+      "total_shared_toi_min": 91.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483495,
+          "opponent_name": "S. Nemec",
+          "weighted_toll": 25.444,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.986,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8484860,
+          "opponent_name": "M. Gridin",
+          "weighted_toll": 17.693,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.786,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480860,
+          "opponent_name": "K. Bahl",
+          "weighted_toll": 14.261,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.413,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476458,
+          "opponent_name": "R. Strome",
+          "weighted_toll": 13.319,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.492,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474150,
+          "opponent_name": "M. Backlund",
+          "weighted_toll": 11.241,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.667,
+            "pursuit": 0.0,
+            "zone_time": 3.7,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }
