@@ -148,6 +148,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020260,
+      "date": "2026-11-05",
+      "fii_per_60": 48.016,
+      "total_weighted_toll": 157.067,
+      "total_shared_toi_min": 196.27,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475798,
+          "opponent_name": "M. Granlund",
+          "weighted_toll": 30.42,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.75,
+            "pursuit": 0.0,
+            "zone_time": 5.3,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8483445,
+          "opponent_name": "C. Gauthier",
+          "weighted_toll": 25.675,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.182,
+            "pursuit": 0.0,
+            "zone_time": 4.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8484762,
+          "opponent_name": "B. Sennecke",
+          "weighted_toll": 19.636,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.381,
+            "pursuit": 0.0,
+            "zone_time": 4.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476316,
+          "opponent_name": "L. Brossoit",
+          "weighted_toll": 19.2,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 17.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481605,
+          "opponent_name": "J. LaCombe",
+          "weighted_toll": 11.559,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 10.1,
+            "rush": 2.0
+          }
+        }
+      ]
     }
   ]
 }
