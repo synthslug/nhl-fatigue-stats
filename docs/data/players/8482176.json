@@ -2590,6 +2590,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020271,
+      "date": "2026-11-07",
+      "fii_per_60": 69.986,
+      "total_weighted_toll": 138.455,
+      "total_shared_toi_min": 118.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480817,
+          "opponent_name": "K. Miller",
+          "weighted_toll": 23.038,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.417,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480336,
+          "opponent_name": "S. Walker",
+          "weighted_toll": 17.509,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.625,
+            "pursuit": 0.0,
+            "zone_time": 1.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476906,
+          "opponent_name": "S. Gostisbehere",
+          "weighted_toll": 16.992,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.862,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482100,
+          "opponent_name": "A. Nikishin",
+          "weighted_toll": 16.796,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.6,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480762,
+          "opponent_name": "E. Robinson",
+          "weighted_toll": 14.03,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.45,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

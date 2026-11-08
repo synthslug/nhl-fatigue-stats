@@ -592,6 +592,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020266,
+      "date": "2026-11-07",
+      "fii_per_60": 1418.885,
+      "total_weighted_toll": 1161.121,
+      "total_shared_toi_min": 49.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480981,
+          "opponent_name": "J. Hofer",
+          "weighted_toll": 1056.683,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1053.333,
+            "pursuit": 0.0,
+            "zone_time": 3.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475764,
+          "opponent_name": "C. Fowler",
+          "weighted_toll": 24.191,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.763,
+            "pursuit": 0.0,
+            "zone_time": 0.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481598,
+          "opponent_name": "P. Broberg",
+          "weighted_toll": 23.351,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.394,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480281,
+          "opponent_name": "A. Toropchenko",
+          "weighted_toll": 9.143,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.19,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480459,
+          "opponent_name": "P. Suter",
+          "weighted_toll": 8.52,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.867,
+            "pursuit": 0.0,
+            "zone_time": 0.55,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

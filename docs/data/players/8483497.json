@@ -296,6 +296,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020267,
+      "date": "2026-11-07",
+      "fii_per_60": 544.833,
+      "total_weighted_toll": 607.337,
+      "total_shared_toi_min": 66.88,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476914,
+          "opponent_name": "J. Korpisalo",
+          "weighted_toll": 541.45,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 535.6,
+            "pursuit": 0.0,
+            "zone_time": 5.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482073,
+          "opponent_name": "B. Schneider",
+          "weighted_toll": 19.719,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 20.567,
+            "pursuit": 0.0,
+            "zone_time": 2.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 7.421,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.05,
+            "pursuit": 0.0,
+            "zone_time": 3.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476468,
+          "opponent_name": "J. Miller",
+          "weighted_toll": 6.7,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.63,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483690,
+          "opponent_name": "N. Laba",
+          "weighted_toll": 6.177,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.577,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
