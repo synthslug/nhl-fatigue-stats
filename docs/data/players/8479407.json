@@ -2664,6 +2664,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020303,
+      "date": "2026-11-12",
+      "fii_per_60": 1077.709,
+      "total_weighted_toll": 1241.162,
+      "total_shared_toi_min": 69.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480313,
+          "opponent_name": "L. Thompson",
+          "weighted_toll": 1111.983,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1103.333,
+            "pursuit": 0.0,
+            "zone_time": 8.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478911,
+          "opponent_name": "M. Roy",
+          "weighted_toll": 24.123,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.262,
+            "pursuit": 0.0,
+            "zone_time": 3.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480796,
+          "opponent_name": "M. Feh\u00e9rv\u00e1ry",
+          "weighted_toll": 18.473,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.349,
+            "pursuit": 0.0,
+            "zone_time": 5.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484873,
+          "opponent_name": "C. Hutson",
+          "weighted_toll": 17.965,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.131,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484186,
+          "opponent_name": "R. Leonard",
+          "weighted_toll": 12.301,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.821,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
