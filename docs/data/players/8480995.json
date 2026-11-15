@@ -2590,6 +2590,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020316,
+      "date": "2026-11-14",
+      "fii_per_60": 45.07,
+      "total_weighted_toll": 69.784,
+      "total_shared_toi_min": 92.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477429,
+          "opponent_name": "A. Copp",
+          "weighted_toll": 12.649,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.924,
+            "pursuit": 0.0,
+            "zone_time": 4.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475753,
+          "opponent_name": "J. Faulk",
+          "weighted_toll": 8.273,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.936,
+            "pursuit": 0.0,
+            "zone_time": 2.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482078,
+          "opponent_name": "L. Raymond",
+          "weighted_toll": 8.27,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 20.691,
+            "pursuit": 0.0,
+            "zone_time": 3.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484794,
+          "opponent_name": "M. Brandsegg-Nyg\u00e5rd",
+          "weighted_toll": 7.925,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.059,
+            "pursuit": 0.0,
+            "zone_time": 3.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483679,
+          "opponent_name": "A. Johansson",
+          "weighted_toll": 6.422,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.467,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

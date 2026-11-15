@@ -666,6 +666,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020319,
+      "date": "2026-11-14",
+      "fii_per_60": 917.572,
+      "total_weighted_toll": 949.687,
+      "total_shared_toi_min": 62.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479361,
+          "opponent_name": "J. Woll",
+          "weighted_toll": 899.083,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 895.333,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477499,
+          "opponent_name": "R. Ristolainen",
+          "weighted_toll": 11.245,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.246,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484387,
+          "opponent_name": "M. Michkov",
+          "weighted_toll": 6.319,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.479,
+            "pursuit": 0.0,
+            "zone_time": 1.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482142,
+          "opponent_name": "J. Drysdale",
+          "weighted_toll": 5.747,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.512,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476461,
+          "opponent_name": "S. Couturier",
+          "weighted_toll": 5.271,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.488,
+            "pursuit": 0.0,
+            "zone_time": 1.05,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
