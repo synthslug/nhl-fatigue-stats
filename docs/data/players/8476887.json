@@ -2738,6 +2738,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020330,
+      "date": "2026-11-15",
+      "fii_per_60": 86.244,
+      "total_weighted_toll": 145.321,
+      "total_shared_toi_min": 101.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477498,
+          "opponent_name": "D. Nurse",
+          "weighted_toll": 25.694,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.769,
+            "pursuit": 0.0,
+            "zone_time": 5.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477968,
+          "opponent_name": "A. Nedeljkovic",
+          "weighted_toll": 15.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 15.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484421,
+          "opponent_name": "E. Pohlkamp",
+          "weighted_toll": 15.053,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.798,
+            "pursuit": 0.0,
+            "zone_time": 5.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475200,
+          "opponent_name": "D. Orlov",
+          "weighted_toll": 14.784,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.625,
+            "pursuit": 0.0,
+            "zone_time": 5.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476885,
+          "opponent_name": "J. Trouba",
+          "weighted_toll": 13.768,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.312,
+            "pursuit": 0.0,
+            "zone_time": 6.1,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

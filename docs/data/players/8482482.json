@@ -2368,6 +2368,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020330,
+      "date": "2026-11-15",
+      "fii_per_60": 73.253,
+      "total_weighted_toll": 141.5,
+      "total_shared_toi_min": 115.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480891,
+          "opponent_name": "M. Kesselring",
+          "weighted_toll": 18.477,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.252,
+            "pursuit": 0.0,
+            "zone_time": 4.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484806,
+          "opponent_name": "S. Dickinson",
+          "weighted_toll": 14.131,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.722,
+            "pursuit": 0.0,
+            "zone_time": 2.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484801,
+          "opponent_name": "M. Celebrini",
+          "weighted_toll": 12.88,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.188,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477968,
+          "opponent_name": "A. Nedeljkovic",
+          "weighted_toll": 11.9,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 11.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484911,
+          "opponent_name": "C. Graf",
+          "weighted_toll": 11.25,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.727,
+            "pursuit": 0.0,
+            "zone_time": 5.65,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

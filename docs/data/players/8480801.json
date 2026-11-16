@@ -1,0 +1,2965 @@
+{
+  "player_id": 8480801,
+  "fii_games": [
+    {
+      "game_id": 2025020632,
+      "date": "2026-01-01",
+      "fii_per_60": 104.51,
+      "total_weighted_toll": 127.676,
+      "total_shared_toi_min": 73.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478911,
+          "opponent_name": "M. Roy",
+          "weighted_toll": 26.68,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 26.295,
+            "pursuit": 0.0,
+            "zone_time": 5.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8471214,
+          "opponent_name": "A. Ovechkin",
+          "weighted_toll": 14.328,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.586,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482088,
+          "opponent_name": "J. Sourdif",
+          "weighted_toll": 11.527,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.8,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476880,
+          "opponent_name": "T. Wilson",
+          "weighted_toll": 10.173,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.65,
+            "pursuit": 0.0,
+            "zone_time": 5.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480313,
+          "opponent_name": "L. Thompson",
+          "weighted_toll": 9.15,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020650,
+      "date": "2026-01-03",
+      "fii_per_60": 93.303,
+      "total_weighted_toll": 89.571,
+      "total_shared_toi_min": 57.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477504,
+          "opponent_name": "J. Morrissey",
+          "weighted_toll": 14.847,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.342,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 13.055,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.15,
+            "pursuit": 0.0,
+            "zone_time": 6.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476945,
+          "opponent_name": "C. Hellebuyck",
+          "weighted_toll": 8.45,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480145,
+          "opponent_name": "N. Pionk",
+          "weighted_toll": 8.335,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 2.404,
+            "pursuit": 0.0,
+            "zone_time": 6.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476331,
+          "opponent_name": "D. DeMelo",
+          "weighted_toll": 8.019,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.762,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020664,
+      "date": "2026-01-05",
+      "fii_per_60": 150.934,
+      "total_weighted_toll": 146.406,
+      "total_shared_toi_min": 58.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475279,
+          "opponent_name": "B. Chiarot",
+          "weighted_toll": 24.415,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.25,
+            "pursuit": 0.0,
+            "zone_time": 3.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479337,
+          "opponent_name": "A. DeBrincat",
+          "weighted_toll": 17.046,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.65,
+            "pursuit": 0.0,
+            "zone_time": 0.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476434,
+          "opponent_name": "J. Gibson",
+          "weighted_toll": 12.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 12.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478891,
+          "opponent_name": "M. Appleton",
+          "weighted_toll": 11.951,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.0,
+            "pursuit": 0.0,
+            "zone_time": 4.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477456,
+          "opponent_name": "J. Compher",
+          "weighted_toll": 11.917,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.5,
+            "pursuit": 0.0,
+            "zone_time": 5.45,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020680,
+      "date": "2026-01-07",
+      "fii_per_60": 86.53,
+      "total_weighted_toll": 112.922,
+      "total_shared_toi_min": 78.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8474013,
+          "opponent_name": "I. Cole",
+          "weighted_toll": 24.22,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 27.056,
+            "pursuit": 0.0,
+            "zone_time": 5.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479343,
+          "opponent_name": "C. Keller",
+          "weighted_toll": 13.469,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.557,
+            "pursuit": 0.0,
+            "zone_time": 2.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477021,
+          "opponent_name": "A. Kerfoot",
+          "weighted_toll": 11.856,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.554,
+            "pursuit": 0.0,
+            "zone_time": 5.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478507,
+          "opponent_name": "J. Marino",
+          "weighted_toll": 10.947,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.702,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478872,
+          "opponent_name": "K. Vejmelka",
+          "weighted_toll": 10.7,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 10.7,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020691,
+      "date": "2026-01-08",
+      "fii_per_60": 130.333,
+      "total_weighted_toll": 123.816,
+      "total_shared_toi_min": 57.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482470,
+          "opponent_name": "I. Solovyov",
+          "weighted_toll": 18.22,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.955,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479398,
+          "opponent_name": "S. Girard",
+          "weighted_toll": 15.356,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 17.581,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8470613,
+          "opponent_name": "B. Burns",
+          "weighted_toll": 14.878,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.775,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476312,
+          "opponent_name": "J. Manson",
+          "weighted_toll": 9.928,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 6.917,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480069,
+          "opponent_name": "C. Makar",
+          "weighted_toll": 9.609,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.804,
+            "pursuit": 0.0,
+            "zone_time": 2.75,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020704,
+      "date": "2026-01-10",
+      "fii_per_60": 87.674,
+      "total_weighted_toll": 107.693,
+      "total_shared_toi_min": 73.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478859,
+          "opponent_name": "N. Mikkola",
+          "weighted_toll": 20.231,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.579,
+            "pursuit": 0.0,
+            "zone_time": 4.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478542,
+          "opponent_name": "E. Rodrigues",
+          "weighted_toll": 15.311,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.295,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484304,
+          "opponent_name": "U. Balinskis",
+          "weighted_toll": 13.068,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.233,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482713,
+          "opponent_name": "M. Samoskevich",
+          "weighted_toll": 9.485,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 20.47,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483771,
+          "opponent_name": "S. Vilmanis",
+          "weighted_toll": 9.035,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.378,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020725,
+      "date": "2026-01-13",
+      "fii_per_60": 892.868,
+      "total_weighted_toll": 1241.087,
+      "total_shared_toi_min": 83.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480947,
+          "opponent_name": "K. Lankinen",
+          "weighted_toll": 1140.133,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1134.333,
+            "pursuit": 0.0,
+            "zone_time": 5.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477969,
+          "opponent_name": "M. Pettersson",
+          "weighted_toll": 31.448,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 28.17,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479425,
+          "opponent_name": "F. Hronek",
+          "weighted_toll": 13.204,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.551,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478856,
+          "opponent_name": "C. Garland",
+          "weighted_toll": 9.224,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.682,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484798,
+          "opponent_name": "Z. Buium",
+          "weighted_toll": 9.095,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.555,
+            "pursuit": 0.0,
+            "zone_time": 0.95,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020737,
+      "date": "2026-01-14",
+      "fii_per_60": 783.058,
+      "total_weighted_toll": 816.338,
+      "total_shared_toi_min": 62.55,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477484,
+          "opponent_name": "S. Martin",
+          "weighted_toll": 703.79,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 732.5,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482073,
+          "opponent_name": "B. Schneider",
+          "weighted_toll": 22.575,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 22.375,
+            "pursuit": 0.0,
+            "zone_time": 2.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478882,
+          "opponent_name": "V. Gavrikov",
+          "weighted_toll": 18.327,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.028,
+            "pursuit": 0.0,
+            "zone_time": 3.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481525,
+          "opponent_name": "M. Robertson",
+          "weighted_toll": 13.424,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.6,
+            "pursuit": 0.0,
+            "zone_time": 1.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482666,
+          "opponent_name": "S. Morrow",
+          "weighted_toll": 9.504,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.312,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020758,
+      "date": "2026-01-17",
+      "fii_per_60": 93.64,
+      "total_weighted_toll": 125.166,
+      "total_shared_toi_min": 80.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476875,
+          "opponent_name": "M. Matheson",
+          "weighted_toll": 24.628,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 20.948,
+            "pursuit": 0.0,
+            "zone_time": 5.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480865,
+          "opponent_name": "N. Dobson",
+          "weighted_toll": 21.324,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.63,
+            "pursuit": 0.0,
+            "zone_time": 4.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480813,
+          "opponent_name": "J. Veleno",
+          "weighted_toll": 15.625,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.756,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482087,
+          "opponent_name": "K. Guhle",
+          "weighted_toll": 11.959,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.575,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482737,
+          "opponent_name": "Z. Bolduc",
+          "weighted_toll": 8.664,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.556,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020768,
+      "date": "2026-01-18",
+      "fii_per_60": 58.051,
+      "total_weighted_toll": 78.756,
+      "total_shared_toi_min": 81.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475279,
+          "opponent_name": "B. Chiarot",
+          "weighted_toll": 13.992,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.267,
+            "pursuit": 0.0,
+            "zone_time": 2.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474141,
+          "opponent_name": "P. Kane",
+          "weighted_toll": 13.288,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.917,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8483464,
+          "opponent_name": "M. Kasper",
+          "weighted_toll": 8.448,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.99,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484223,
+          "opponent_name": "A. Sandin-Pellikka",
+          "weighted_toll": 8.296,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.533,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8476434,
+          "opponent_name": "J. Gibson",
+          "weighted_toll": 7.25,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020782,
+      "date": "2026-01-20",
+      "fii_per_60": 104.28,
+      "total_weighted_toll": 95.416,
+      "total_shared_toi_min": 54.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476923,
+          "opponent_name": "D. Severson",
+          "weighted_toll": 15.969,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.2,
+            "pursuit": 0.0,
+            "zone_time": 2.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476432,
+          "opponent_name": "B. Jenner",
+          "weighted_toll": 15.845,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.125,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477497,
+          "opponent_name": "S. Monahan",
+          "weighted_toll": 13.254,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.167,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482660,
+          "opponent_name": "K. Johnson",
+          "weighted_toll": 10.984,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.306,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478460,
+          "opponent_name": "Z. Werenski",
+          "weighted_toll": 6.798,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.867,
+            "pursuit": 0.0,
+            "zone_time": 3.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020798,
+      "date": "2026-01-22",
+      "fii_per_60": 52.157,
+      "total_weighted_toll": 68.326,
+      "total_shared_toi_min": 78.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476869,
+          "opponent_name": "B. Skjei",
+          "weighted_toll": 10.821,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.384,
+            "pursuit": 0.0,
+            "zone_time": 4.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480246,
+          "opponent_name": "N. Perbix",
+          "weighted_toll": 10.113,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.174,
+            "pursuit": 0.0,
+            "zone_time": 2.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483565,
+          "opponent_name": "N. Blankenburg",
+          "weighted_toll": 7.188,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.065,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477424,
+          "opponent_name": "J. Saros",
+          "weighted_toll": 6.25,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 6.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475287,
+          "opponent_name": "E. Haula",
+          "weighted_toll": 5.663,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.079,
+            "pursuit": 0.0,
+            "zone_time": 2.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020813,
+      "date": "2026-01-24",
+      "fii_per_60": 111.589,
+      "total_weighted_toll": 135.023,
+      "total_shared_toi_min": 72.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8473533,
+          "opponent_name": "J. Staal",
+          "weighted_toll": 28.131,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 33.111,
+            "pursuit": 0.0,
+            "zone_time": 8.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476921,
+          "opponent_name": "J. Martinook",
+          "weighted_toll": 24.658,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.0,
+            "pursuit": 0.0,
+            "zone_time": 8.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476958,
+          "opponent_name": "J. Slavin",
+          "weighted_toll": 17.239,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.083,
+            "pursuit": 0.0,
+            "zone_time": 5.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480336,
+          "opponent_name": "S. Walker",
+          "weighted_toll": 15.065,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 15.343,
+            "pursuit": 0.0,
+            "zone_time": 4.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478970,
+          "opponent_name": "J. Chatfield",
+          "weighted_toll": 13.098,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.462,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020821,
+      "date": "2026-01-25",
+      "fii_per_60": 120.139,
+      "total_weighted_toll": 166.793,
+      "total_shared_toi_min": 83.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475913,
+          "opponent_name": "M. Stone",
+          "weighted_toll": 15.907,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 28.783,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478483,
+          "opponent_name": "M. Marner",
+          "weighted_toll": 14.527,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.557,
+            "pursuit": 0.0,
+            "zone_time": 2.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477018,
+          "opponent_name": "B. Hutton",
+          "weighted_toll": 14.057,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 25.5,
+            "pursuit": 0.0,
+            "zone_time": 3.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476881,
+          "opponent_name": "T. Hertl",
+          "weighted_toll": 12.594,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.714,
+            "pursuit": 0.0,
+            "zone_time": 3.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481604,
+          "opponent_name": "P. Dorofeyev",
+          "weighted_toll": 11.928,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 12.417,
+            "pursuit": 0.0,
+            "zone_time": 2.95,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020841,
+      "date": "2026-01-28",
+      "fii_per_60": 1035.249,
+      "total_weighted_toll": 1181.909,
+      "total_shared_toi_min": 68.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478406,
+          "opponent_name": "M. Blackwood",
+          "weighted_toll": 1086.2,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1079.5,
+            "pursuit": 0.0,
+            "zone_time": 6.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477492,
+          "opponent_name": "N. MacKinnon",
+          "weighted_toll": 20.508,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.923,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475754,
+          "opponent_name": "B. Nelson",
+          "weighted_toll": 11.77,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.486,
+            "pursuit": 0.0,
+            "zone_time": 5.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480039,
+          "opponent_name": "M. Necas",
+          "weighted_toll": 11.072,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.188,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479398,
+          "opponent_name": "S. Girard",
+          "weighted_toll": 10.216,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.709,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2025020866,
+      "date": "2026-01-31",
+      "fii_per_60": 127.653,
+      "total_weighted_toll": 121.483,
+      "total_shared_toi_min": 57.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476462,
+          "opponent_name": "D. Hamilton",
+          "weighted_toll": 30.939,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 31.438,
+            "pursuit": 0.0,
+            "zone_time": 0.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479407,
+          "opponent_name": "J. Bratt",
+          "weighted_toll": 12.295,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.938,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477488,
+          "opponent_name": "B. Pesce",
+          "weighted_toll": 10.865,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.818,
+            "pursuit": 0.0,
+            "zone_time": 1.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480192,
+          "opponent_name": "J. Kovacevic",
+          "weighted_toll": 9.989,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.667,
+            "pursuit": 0.0,
+            "zone_time": 3.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481032,
+          "opponent_name": "P. Cotter",
+          "weighted_toll": 7.967,
+          "role_weight": 0.284,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.333,
+            "pursuit": 0.0,
+            "zone_time": 0.7,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010010,
+      "date": "2026-09-20",
+      "fii_per_60": 638.02,
+      "total_weighted_toll": 726.28,
+      "total_shared_toi_min": 68.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481611,
+          "opponent_name": "P. Kochetkov",
+          "weighted_toll": 688.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 683.2,
+            "pursuit": 0.0,
+            "zone_time": 5.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479976,
+          "opponent_name": "J. V\u00e4lim\u00e4ki",
+          "weighted_toll": 11.34,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.071,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484781,
+          "opponent_name": "D. Badinka",
+          "weighted_toll": 8.194,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 7.0,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484428,
+          "opponent_name": "C. Legault",
+          "weighted_toll": 3.325,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.067,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485563,
+          "opponent_name": "C. Cerrato",
+          "weighted_toll": 3.242,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.4,
+            "pursuit": 0.0,
+            "zone_time": 0.6,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026010026,
+      "date": "2026-09-22",
+      "fii_per_60": 77.933,
+      "total_weighted_toll": 59.229,
+      "total_shared_toi_min": 45.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482888,
+          "opponent_name": "B. Montgomery",
+          "weighted_toll": 9.591,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 29.057,
+            "pursuit": 0.0,
+            "zone_time": 0.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484203,
+          "opponent_name": "B. Nadeau",
+          "weighted_toll": 7.074,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.319,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480058,
+          "opponent_name": "P. Joseph",
+          "weighted_toll": 6.414,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.212,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485368,
+          "opponent_name": "I. Ryabkin",
+          "weighted_toll": 4.566,
+          "role_weight": 0.239,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.067,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484929,
+          "opponent_name": "J. Jaaska",
+          "weighted_toll": 4.523,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.41,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020001,
+      "date": "2026-09-29",
+      "fii_per_60": 141.209,
+      "total_weighted_toll": 127.559,
+      "total_shared_toi_min": 54.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480817,
+          "opponent_name": "K. Miller",
+          "weighted_toll": 19.407,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.866,
+            "pursuit": 0.0,
+            "zone_time": 4.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476906,
+          "opponent_name": "S. Gostisbehere",
+          "weighted_toll": 15.395,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.372,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482809,
+          "opponent_name": "J. Blake",
+          "weighted_toll": 14.87,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.375,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8473533,
+          "opponent_name": "J. Staal",
+          "weighted_toll": 13.84,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 18.594,
+            "pursuit": 0.0,
+            "zone_time": 5.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476958,
+          "opponent_name": "J. Slavin",
+          "weighted_toll": 10.79,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 7.05,
+            "pursuit": 0.0,
+            "zone_time": 3.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020016,
+      "date": "2026-10-01",
+      "fii_per_60": 118.297,
+      "total_weighted_toll": 147.082,
+      "total_shared_toi_min": 74.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484801,
+          "opponent_name": "M. Celebrini",
+          "weighted_toll": 23.612,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.868,
+            "pursuit": 0.0,
+            "zone_time": 1.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476885,
+          "opponent_name": "J. Trouba",
+          "weighted_toll": 20.823,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 12.52,
+            "pursuit": 0.0,
+            "zone_time": 9.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484227,
+          "opponent_name": "W. Smith",
+          "weighted_toll": 16.241,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.75,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482137,
+          "opponent_name": "Y. Askarov",
+          "weighted_toll": 14.1,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 14.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482700,
+          "opponent_name": "N. Allan",
+          "weighted_toll": 12.261,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 3.0,
+            "shift_forced": 5.994,
+            "pursuit": 0.0,
+            "zone_time": 6.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020037,
+      "date": "2026-10-04",
+      "fii_per_60": 1195.767,
+      "total_weighted_toll": 1209.718,
+      "total_shared_toi_min": 60.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480843,
+          "opponent_name": "L. Dostal",
+          "weighted_toll": 1098.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1088.5,
+            "pursuit": 0.0,
+            "zone_time": 10.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483482,
+          "opponent_name": "T. Luneau",
+          "weighted_toll": 15.873,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 9.882,
+            "pursuit": 0.0,
+            "zone_time": 6.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8473986,
+          "opponent_name": "A. Killorn",
+          "weighted_toll": 14.358,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 18.061,
+            "pursuit": 0.0,
+            "zone_time": 4.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481605,
+          "opponent_name": "J. LaCombe",
+          "weighted_toll": 13.899,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 6.6,
+            "pursuit": 0.0,
+            "zone_time": 5.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483490,
+          "opponent_name": "P. Mintyukov",
+          "weighted_toll": 11.633,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.688,
+            "pursuit": 0.0,
+            "zone_time": 4.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020052,
+      "date": "2026-10-06",
+      "fii_per_60": 91.824,
+      "total_weighted_toll": 90.141,
+      "total_shared_toi_min": 58.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482730,
+          "opponent_name": "B. Clarke",
+          "weighted_toll": 16.595,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 15.262,
+            "pursuit": 0.0,
+            "zone_time": 1.95,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8475311,
+          "opponent_name": "D. Kuemper",
+          "weighted_toll": 11.0,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.0,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8474563,
+          "opponent_name": "D. Doughty",
+          "weighted_toll": 10.447,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.761,
+            "pursuit": 0.0,
+            "zone_time": 1.45,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482155,
+          "opponent_name": "A. Laferriere",
+          "weighted_toll": 10.148,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.071,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479675,
+          "opponent_name": "T. Moore",
+          "weighted_toll": 7.731,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 9.79,
+            "pursuit": 0.0,
+            "zone_time": 1.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020073,
+      "date": "2026-10-10",
+      "fii_per_60": 126.191,
+      "total_weighted_toll": 147.643,
+      "total_shared_toi_min": 70.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8474716,
+          "opponent_name": "J. Spurgeon",
+          "weighted_toll": 21.829,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.275,
+            "pursuit": 0.0,
+            "zone_time": 4.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476463,
+          "opponent_name": "J. Brodin",
+          "weighted_toll": 16.227,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.792,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476399,
+          "opponent_name": "B. Coleman",
+          "weighted_toll": 14.319,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 19.2,
+            "pursuit": 0.0,
+            "zone_time": 3.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476874,
+          "opponent_name": "O. Maatta",
+          "weighted_toll": 13.233,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.067,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483525,
+          "opponent_name": "D. Yurov",
+          "weighted_toll": 11.803,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 17.558,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020087,
+      "date": "2026-10-12",
+      "fii_per_60": 67.351,
+      "total_weighted_toll": 83.964,
+      "total_shared_toi_min": 74.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482803,
+          "opponent_name": "O. Zellweger",
+          "weighted_toll": 20.422,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.023,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484305,
+          "opponent_name": "Z. Metsa",
+          "weighted_toll": 13.597,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.471,
+            "pursuit": 0.0,
+            "zone_time": 5.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480807,
+          "opponent_name": "M. Samuelsson",
+          "weighted_toll": 10.852,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 1.411,
+            "pursuit": 0.0,
+            "zone_time": 7.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480045,
+          "opponent_name": "U. Luukkonen",
+          "weighted_toll": 7.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480802,
+          "opponent_name": "R. McLeod",
+          "weighted_toll": 7.647,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 9.337,
+            "pursuit": 0.0,
+            "zone_time": 4.5,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020091,
+      "date": "2026-10-13",
+      "fii_per_60": 325.841,
+      "total_weighted_toll": 311.721,
+      "total_shared_toi_min": 57.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482982,
+          "opponent_name": "J. Greaves",
+          "weighted_toll": 213.598,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 570.0,
+            "pursuit": 0.0,
+            "zone_time": 1.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478856,
+          "opponent_name": "C. Garland",
+          "weighted_toll": 18.233,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 43.176,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476923,
+          "opponent_name": "D. Severson",
+          "weighted_toll": 17.038,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.562,
+            "pursuit": 0.0,
+            "zone_time": 3.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482720,
+          "opponent_name": "M. Knies",
+          "weighted_toll": 9.362,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.297,
+            "pursuit": 0.0,
+            "zone_time": 0.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479671,
+          "opponent_name": "M. Olivier",
+          "weighted_toll": 7.835,
+          "role_weight": 0.195,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 37.182,
+            "pursuit": 0.0,
+            "zone_time": 2.05,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020112,
+      "date": "2026-10-15",
+      "fii_per_60": 83.839,
+      "total_weighted_toll": 111.645,
+      "total_shared_toi_min": 79.9,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8479425,
+          "opponent_name": "F. Hronek",
+          "weighted_toll": 19.535,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.0,
+            "pursuit": 0.0,
+            "zone_time": 6.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481032,
+          "opponent_name": "P. Cotter",
+          "weighted_toll": 16.189,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.944,
+            "pursuit": 0.0,
+            "zone_time": 3.35,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484798,
+          "opponent_name": "Z. Buium",
+          "weighted_toll": 15.833,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.444,
+            "pursuit": 0.0,
+            "zone_time": 0.95,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8480078,
+          "opponent_name": "F. Chytil",
+          "weighted_toll": 14.312,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.614,
+            "pursuit": 0.0,
+            "zone_time": 3.95,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8482447,
+          "opponent_name": "L. Meril\u00e4inen",
+          "weighted_toll": 11.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.65,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020124,
+      "date": "2026-10-17",
+      "fii_per_60": 89.326,
+      "total_weighted_toll": 96.298,
+      "total_shared_toi_min": 64.68,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476457,
+          "opponent_name": "A. Larsson",
+          "weighted_toll": 25.098,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.818,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482665,
+          "opponent_name": "M. Beniers",
+          "weighted_toll": 16.596,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 20.178,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478407,
+          "opponent_name": "V. Dunn",
+          "weighted_toll": 15.323,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.429,
+            "pursuit": 0.0,
+            "zone_time": 4.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478916,
+          "opponent_name": "J. Daccord",
+          "weighted_toll": 10.95,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.95,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8479985,
+          "opponent_name": "C. Fleury",
+          "weighted_toll": 8.303,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.1,
+            "pursuit": 0.0,
+            "zone_time": 3.8,
+            "rush": 2.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020153,
+      "date": "2026-10-21",
+      "fii_per_60": 78.592,
+      "total_weighted_toll": 83.308,
+      "total_shared_toi_min": 63.6,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484759,
+          "opponent_name": "C. Yakemchuk",
+          "weighted_toll": 20.112,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 25.841,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482095,
+          "opponent_name": "T. Kleven",
+          "weighted_toll": 15.524,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.2,
+            "pursuit": 0.0,
+            "zone_time": 0.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482245,
+          "opponent_name": "A. Zub",
+          "weighted_toll": 7.591,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 6.737,
+            "pursuit": 0.0,
+            "zone_time": 5.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476999,
+          "opponent_name": "L. Ullmark",
+          "weighted_toll": 5.4,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 5.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481596,
+          "opponent_name": "S. Pinto",
+          "weighted_toll": 4.892,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 4.65,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020158,
+      "date": "2026-10-22",
+      "fii_per_60": 69.798,
+      "total_weighted_toll": 74.102,
+      "total_shared_toi_min": 63.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8471724,
+          "opponent_name": "K. Letang",
+          "weighted_toll": 17.23,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 21.551,
+            "pursuit": 0.0,
+            "zone_time": 1.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483487,
+          "opponent_name": "R. McGroarty",
+          "weighted_toll": 9.958,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.5,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482470,
+          "opponent_name": "I. Solovyov",
+          "weighted_toll": 8.143,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 11.231,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481668,
+          "opponent_name": "A. Silovs",
+          "weighted_toll": 7.2,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480980,
+          "opponent_name": "C. Dewar",
+          "weighted_toll": 5.598,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 2.4,
+            "pursuit": 0.0,
+            "zone_time": 5.75,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020180,
+      "date": "2026-10-25",
+      "fii_per_60": 893.034,
+      "total_weighted_toll": 1047.578,
+      "total_shared_toi_min": 70.38,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8481519,
+          "opponent_name": "S. Knight",
+          "weighted_toll": 970.75,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 963.5,
+            "pursuit": 0.0,
+            "zone_time": 7.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481568,
+          "opponent_name": "A. Vlasic",
+          "weighted_toll": 21.522,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 27.284,
+            "pursuit": 0.0,
+            "zone_time": 4.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8474013,
+          "opponent_name": "I. Cole",
+          "weighted_toll": 16.16,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 25.567,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482176,
+          "opponent_name": "W. Kaiser",
+          "weighted_toll": 6.068,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.857,
+            "pursuit": 0.0,
+            "zone_time": 1.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483450,
+          "opponent_name": "R. Greene",
+          "weighted_toll": 5.553,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.871,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020194,
+      "date": "2026-10-27",
+      "fii_per_60": 114.81,
+      "total_weighted_toll": 110.632,
+      "total_shared_toi_min": 57.82,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478398,
+          "opponent_name": "K. Connor",
+          "weighted_toll": 25.093,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 23.568,
+            "pursuit": 0.0,
+            "zone_time": 2.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479983,
+          "opponent_name": "M. Ferraro",
+          "weighted_toll": 20.711,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 17.846,
+            "pursuit": 0.0,
+            "zone_time": 3.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476460,
+          "opponent_name": "M. Scheifele",
+          "weighted_toll": 18.687,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.744,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480289,
+          "opponent_name": "M. Barron",
+          "weighted_toll": 8.709,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.209,
+            "pursuit": 0.0,
+            "zone_time": 3.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 8.229,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 6.5,
+            "pursuit": 0.0,
+            "zone_time": 4.1,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020215,
+      "date": "2026-10-30",
+      "fii_per_60": 974.816,
+      "total_weighted_toll": 1101.542,
+      "total_shared_toi_min": 67.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482076,
+          "opponent_name": "N. Daws",
+          "weighted_toll": 1038.55,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 1030.0,
+            "pursuit": 0.0,
+            "zone_time": 8.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482110,
+          "opponent_name": "D. Mercer",
+          "weighted_toll": 11.4,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.933,
+            "pursuit": 0.0,
+            "zone_time": 1.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483510,
+          "opponent_name": "E. Salomonsson",
+          "weighted_toll": 10.151,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.225,
+            "pursuit": 0.0,
+            "zone_time": 1.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480049,
+          "opponent_name": "D. Samberg",
+          "weighted_toll": 6.651,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 3.5,
+            "pursuit": 0.0,
+            "zone_time": 4.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8486025,
+          "opponent_name": "V. Bj\u00f6rck",
+          "weighted_toll": 6.022,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 9.357,
+            "pursuit": 0.0,
+            "zone_time": 1.5,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020233,
+      "date": "2026-11-02",
+      "fii_per_60": 100.137,
+      "total_weighted_toll": 139.024,
+      "total_shared_toi_min": 83.3,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475279,
+          "opponent_name": "B. Chiarot",
+          "weighted_toll": 27.655,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 22.422,
+            "pursuit": 0.0,
+            "zone_time": 6.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481542,
+          "opponent_name": "M. Seider",
+          "weighted_toll": 17.365,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 9.429,
+            "pursuit": 0.0,
+            "zone_time": 7.75,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477456,
+          "opponent_name": "J. Compher",
+          "weighted_toll": 15.381,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.583,
+            "pursuit": 0.0,
+            "zone_time": 5.15,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480193,
+          "opponent_name": "D. Tarasov",
+          "weighted_toll": 12.8,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 12.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482171,
+          "opponent_name": "W. Wallinder",
+          "weighted_toll": 8.197,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 8.472,
+            "pursuit": 0.0,
+            "zone_time": 4.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020248,
+      "date": "2026-11-04",
+      "fii_per_60": 136.57,
+      "total_weighted_toll": 176.403,
+      "total_shared_toi_min": 77.5,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8484390,
+          "opponent_name": "R. Kantserov",
+          "weighted_toll": 34.112,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 38.5,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482176,
+          "opponent_name": "W. Kaiser",
+          "weighted_toll": 21.796,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.867,
+            "pursuit": 0.0,
+            "zone_time": 4.95,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477479,
+          "opponent_name": "T. Bertuzzi",
+          "weighted_toll": 18.029,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.698,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 2.0
+          }
+        },
+        {
+          "opponent_player_id": 8481568,
+          "opponent_name": "A. Vlasic",
+          "weighted_toll": 17.842,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 15.481,
+            "pursuit": 0.0,
+            "zone_time": 5.25,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484144,
+          "opponent_name": "C. Bedard",
+          "weighted_toll": 12.707,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.056,
+            "pursuit": 0.0,
+            "zone_time": 0.9,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020265,
+      "date": "2026-11-07",
+      "fii_per_60": 137.12,
+      "total_weighted_toll": 143.976,
+      "total_shared_toi_min": 63.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478911,
+          "opponent_name": "M. Roy",
+          "weighted_toll": 25.171,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 15.85,
+            "pursuit": 0.0,
+            "zone_time": 9.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480796,
+          "opponent_name": "M. Feh\u00e9rv\u00e1ry",
+          "weighted_toll": 23.684,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 16.806,
+            "pursuit": 0.0,
+            "zone_time": 9.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8480313,
+          "opponent_name": "L. Thompson",
+          "weighted_toll": 14.3,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 14.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477949,
+          "opponent_name": "A. Tuch",
+          "weighted_toll": 13.749,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 5.5,
+            "pursuit": 0.0,
+            "zone_time": 9.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479400,
+          "opponent_name": "P. Dubois",
+          "weighted_toll": 12.015,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.456,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020277,
+      "date": "2026-11-08",
+      "fii_per_60": 980.092,
+      "total_weighted_toll": 638.693,
+      "total_shared_toi_min": 39.1,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8480280,
+          "opponent_name": "J. Swayman",
+          "weighted_toll": 579.883,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 569.333,
+            "pursuit": 0.0,
+            "zone_time": 10.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483017,
+          "opponent_name": "F. Brunet",
+          "weighted_toll": 17.201,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 33.067,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478840,
+          "opponent_name": "W. Borgen",
+          "weighted_toll": 9.362,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482177,
+          "opponent_name": "M. Khusnutdinov",
+          "weighted_toll": 6.8,
+          "role_weight": 0.374,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.397,
+            "pursuit": 0.0,
+            "zone_time": 5.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483489,
+          "opponent_name": "F. Minten",
+          "weighted_toll": 6.049,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 7.576,
+            "pursuit": 0.0,
+            "zone_time": 2.55,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020289,
+      "date": "2026-11-10",
+      "fii_per_60": 68.456,
+      "total_weighted_toll": 105.879,
+      "total_shared_toi_min": 92.8,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8478460,
+          "opponent_name": "Z. Werenski",
+          "weighted_toll": 12.916,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 10.421,
+            "pursuit": 0.0,
+            "zone_time": 3.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482660,
+          "opponent_name": "K. Johnson",
+          "weighted_toll": 12.473,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 17.625,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476923,
+          "opponent_name": "D. Severson",
+          "weighted_toll": 9.075,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.467,
+            "pursuit": 0.0,
+            "zone_time": 1.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478500,
+          "opponent_name": "I. Provorov",
+          "weighted_toll": 8.591,
+          "role_weight": 0.866,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 8.423,
+            "pursuit": 0.0,
+            "zone_time": 1.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482720,
+          "opponent_name": "M. Knies",
+          "weighted_toll": 8.547,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.667,
+            "pursuit": 0.0,
+            "zone_time": 0.8,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020302,
+      "date": "2026-11-12",
+      "fii_per_60": 81.303,
+      "total_weighted_toll": 109.353,
+      "total_shared_toi_min": 80.7,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8475753,
+          "opponent_name": "J. Faulk",
+          "weighted_toll": 24.324,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 22.015,
+            "pursuit": 0.0,
+            "zone_time": 4.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475279,
+          "opponent_name": "B. Chiarot",
+          "weighted_toll": 20.998,
+          "role_weight": 0.732,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 23.403,
+            "pursuit": 0.0,
+            "zone_time": 4.3,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479337,
+          "opponent_name": "A. DeBrincat",
+          "weighted_toll": 9.896,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.211,
+            "pursuit": 0.0,
+            "zone_time": 2.2,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476434,
+          "opponent_name": "J. Gibson",
+          "weighted_toll": 9.45,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 9.45,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477971,
+          "opponent_name": "A. Englund",
+          "weighted_toll": 8.261,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 12.986,
+            "pursuit": 0.0,
+            "zone_time": 2.85,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020320,
+      "date": "2026-11-14",
+      "fii_per_60": 73.692,
+      "total_weighted_toll": 78.298,
+      "total_shared_toi_min": 63.75,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8476892,
+          "opponent_name": "C. Parayko",
+          "weighted_toll": 10.126,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 4.0,
+            "shift_forced": 1.2,
+            "pursuit": 0.0,
+            "zone_time": 5.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481580,
+          "opponent_name": "C. McMichael",
+          "weighted_toll": 9.936,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.083,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482745,
+          "opponent_name": "M. McTavish",
+          "weighted_toll": 9.045,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.817,
+            "pursuit": 0.0,
+            "zone_time": 1.55,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8475764,
+          "opponent_name": "C. Fowler",
+          "weighted_toll": 8.994,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 12.607,
+            "pursuit": 0.0,
+            "zone_time": 1.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482111,
+          "opponent_name": "J. Barron",
+          "weighted_toll": 8.252,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 4.312,
+            "pursuit": 0.0,
+            "zone_time": 3.75,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020327,
+      "date": "2026-11-15",
+      "fii_per_60": 86.755,
+      "total_weighted_toll": 109.89,
+      "total_shared_toi_min": 76.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8477335,
+          "opponent_name": "K. Burroughs",
+          "weighted_toll": 12.608,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.957,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478420,
+          "opponent_name": "M. Rantanen",
+          "weighted_toll": 12.287,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 14.777,
+            "pursuit": 0.0,
+            "zone_time": 1.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479193,
+          "opponent_name": "C. DeSmith",
+          "weighted_toll": 10.6,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 10.6,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8476902,
+          "opponent_name": "E. Lindell",
+          "weighted_toll": 8.969,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 7.85,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8485468,
+          "opponent_name": "T. Taylor",
+          "weighted_toll": 8.248,
+          "role_weight": 0.329,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 24.673,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        }
+      ]
+    }
+  ]
+}
