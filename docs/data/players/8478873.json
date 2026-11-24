@@ -740,6 +740,80 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020383,
+      "date": "2026-11-23",
+      "fii_per_60": 67.463,
+      "total_weighted_toll": 99.395,
+      "total_shared_toi_min": 88.4,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8474586,
+          "opponent_name": "J. Eberle",
+          "weighted_toll": 15.154,
+          "role_weight": 0.642,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 18.5,
+            "pursuit": 0.0,
+            "zone_time": 4.1,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484800,
+          "opponent_name": "B. Catton",
+          "weighted_toll": 12.255,
+          "role_weight": 0.418,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 26.389,
+            "pursuit": 0.0,
+            "zone_time": 2.9,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482259,
+          "opponent_name": "B. McMann",
+          "weighted_toll": 11.327,
+          "role_weight": 0.687,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 13.991,
+            "pursuit": 0.0,
+            "zone_time": 2.5,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478916,
+          "opponent_name": "J. Daccord",
+          "weighted_toll": 8.65,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 0.0,
+            "pursuit": 0.0,
+            "zone_time": 8.65,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8479324,
+          "opponent_name": "R. Lindgren",
+          "weighted_toll": 7.596,
+          "role_weight": 0.553,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.645,
+            "pursuit": 0.0,
+            "zone_time": 2.1,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }

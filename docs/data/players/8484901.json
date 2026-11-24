@@ -444,6 +444,154 @@
           }
         }
       ]
+    },
+    {
+      "game_id": 2026020371,
+      "date": "2026-11-21",
+      "fii_per_60": 710.717,
+      "total_weighted_toll": 772.313,
+      "total_shared_toi_min": 65.2,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8482661,
+          "opponent_name": "J. Wallstedt",
+          "weighted_toll": 603.3,
+          "role_weight": 1.0,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 598.25,
+            "pursuit": 0.0,
+            "zone_time": 5.05,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478493,
+          "opponent_name": "J. Eriksson Ek",
+          "weighted_toll": 33.814,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 43.157,
+            "pursuit": 0.0,
+            "zone_time": 0.4,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8481557,
+          "opponent_name": "M. Boldy",
+          "weighted_toll": 28.755,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 1.0,
+            "shift_forced": 34.022,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8478864,
+          "opponent_name": "K. Kaprizov",
+          "weighted_toll": 20.498,
+          "role_weight": 0.911,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 21.812,
+            "pursuit": 0.0,
+            "zone_time": 0.7,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482122,
+          "opponent_name": "B. Faber",
+          "weighted_toll": 18.352,
+          "role_weight": 0.955,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 13.961,
+            "pursuit": 0.0,
+            "zone_time": 3.25,
+            "rush": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "game_id": 2026020377,
+      "date": "2026-11-22",
+      "fii_per_60": 91.355,
+      "total_weighted_toll": 102.013,
+      "total_shared_toi_min": 67.0,
+      "top_matchups": [
+        {
+          "opponent_player_id": 8483506,
+          "opponent_name": "S. Rinzel",
+          "weighted_toll": 11.928,
+          "role_weight": 0.821,
+          "components": {
+            "physical": 2.0,
+            "shift_forced": 9.727,
+            "pursuit": 0.0,
+            "zone_time": 2.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8483493,
+          "opponent_name": "F. Nazar",
+          "weighted_toll": 10.099,
+          "role_weight": 0.776,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 11.208,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8484197,
+          "opponent_name": "O. Moore",
+          "weighted_toll": 9.358,
+          "role_weight": 0.508,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 16.625,
+            "pursuit": 0.0,
+            "zone_time": 1.8,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8482807,
+          "opponent_name": "E. Del Mastro",
+          "weighted_toll": 9.02,
+          "role_weight": 0.597,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 15.1,
+            "pursuit": 0.0,
+            "zone_time": 0.0,
+            "rush": 0.0
+          }
+        },
+        {
+          "opponent_player_id": 8477479,
+          "opponent_name": "T. Bertuzzi",
+          "weighted_toll": 8.595,
+          "role_weight": 0.463,
+          "components": {
+            "physical": 0.0,
+            "shift_forced": 17.357,
+            "pursuit": 0.0,
+            "zone_time": 1.2,
+            "rush": 0.0
+          }
+        }
+      ]
     }
   ]
 }
