@@ -1,6 +1,12 @@
 {
-  "last_run_utc": "2026-11-24T20:30:15.352681+00:00",
+  "last_run_utc": "2026-11-25T19:46:39.859540+00:00",
   "recent": [
+    {
+      "game_id": 2026020385,
+      "status": "ok",
+      "ingested_at": "2026-11-25T19:46:37.824640",
+      "error": null
+    },
     {
       "game_id": 2026020384,
       "status": "ok",
@@ -173,12 +179,6 @@
       "game_id": 2026020356,
       "status": "ok",
       "ingested_at": "2026-11-20T18:21:14.317488",
-      "error": null
-    },
-    {
-      "game_id": 2026020355,
-      "status": "ok",
-      "ingested_at": "2026-11-20T18:21:13.652812",
       "error": null
     }
   ],
